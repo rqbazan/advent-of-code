@@ -6,13 +6,13 @@ using namespace std;
 
 int main()
 {
-    #ifdef __test__
-        freopen ("in.txt", "r", stdin);
-        freopen ("out.txt", "w", stdout);
-    #endif
+#ifdef __test__
+  freopen("in.txt", "r", stdin);
+  freopen("out.txt", "w", stdout);
+#endif
 
-    /** code **/
+  /** code **/
 
-    return 0;
+  return 0;
 }
 ```
