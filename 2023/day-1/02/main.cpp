@@ -4,7 +4,7 @@
 
 using namespace std;
 
-vector<string> words = {
+vector<string> WORDS = {
   "zero",
   "one",
   "two",
@@ -55,9 +55,9 @@ short find_number(string::iterator beginIterator, string::iterator endIterator, 
     if (is_number(*it))
       return to_number(*it);
 
-    for (short i = 0; i < words.size(); i++)
+    for (short i = 0; i < WORDS.size(); i++)
     {
-      string word = words[i];
+      string word = WORDS[i];
       if (has_word(word, it, endIterator, incrementBy))
         return i;
     }
