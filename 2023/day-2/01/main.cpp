@@ -33,7 +33,7 @@ int main()
         iss >> game_id;
         iss.ignore(1); // ":"
 
-        while (!iss.eof())
+        while (!iss.eof() && is_game_valid)
         {
             char divider;
             string color_name;
