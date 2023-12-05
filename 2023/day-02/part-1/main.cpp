@@ -14,15 +14,15 @@ map<string, int> BAG_CONFIGURATION = {
 
 int main()
 {
-    #ifdef __test__
-        freopen ("in.txt", "r", stdin);
-        freopen ("out.txt", "w", stdout);
-    #endif
+#ifdef __test__
+    freopen("in.txt", "r", stdin);
+    freopen("out.txt", "w", stdout);
+#endif
 
     string line;
     int sum_id = 0;
 
-    while(getline(cin, line))
+    while (getline(cin, line))
     {
         int game_id;
         bool is_game_valid = true;
@@ -39,12 +39,13 @@ int main()
             string color_name;
             int num_cubes;
 
-            do {
+            do
+            {
                 iss >> num_cubes >> color_name;
 
                 divider = color_name.back();
-            
-                if (divider == ',' || divider == ';') 
+
+                if (divider == ',' || divider == ';')
                     color_name.pop_back();
 
                 int max_cubes = BAG_CONFIGURATION[color_name];

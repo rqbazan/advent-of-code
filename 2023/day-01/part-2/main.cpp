@@ -5,16 +5,16 @@
 using namespace std;
 
 vector<string> WORDS = {
-  "zero",
-  "one",
-  "two",
-  "three",
-  "four",
-  "five",
-  "six",
-  "seven",
-  "eight",
-  "nine",
+    "zero",
+    "one",
+    "two",
+    "three",
+    "four",
+    "five",
+    "six",
+    "seven",
+    "eight",
+    "nine",
 };
 
 inline bool is_number(char c)
@@ -37,12 +37,13 @@ bool has_word(string word, string::iterator beginIterator, string::iterator endI
 
   while (it != end && wIt != wEnd)
   {
-    if (*it != *wIt) return false;
+    if (*it != *wIt)
+      return false;
 
     it += incrementBy;
     wIt += incrementBy;
   }
-  
+
   return true;
 }
 
@@ -70,46 +71,51 @@ short find_number(string::iterator beginIterator, string::iterator endIterator, 
 
 int main()
 {
-    #ifdef __test__
-        freopen ("in.txt", "r", stdin);
-        freopen ("out.txt", "w", stdout);
-    #endif
+#ifdef __test__
+  freopen("in.txt", "r", stdin);
+  freopen("out.txt", "w", stdout);
+#endif
 
-    string line;
-    int sumTotal = 0;
+  string line;
+  int sumTotal = 0;
 
-    while (cin >> line)
+  while (cin >> line)
+  {
+    string::iterator beginIterator = line.begin();
+    string::iterator endIterator = line.end() - 1;
+    short firstDigit = NULL, secondDigit = NULL;
+
+    while (beginIterator <= endIterator)
     {
-        string::iterator beginIterator = line.begin();
-        string::iterator endIterator = line.end() - 1;
-        short firstDigit = NULL, secondDigit = NULL;
+      if (firstDigit == NULL)
+      {
+        short num = find_number(beginIterator, endIterator + 1);
+        if (num != -1)
+          firstDigit = num;
+        else
+          beginIterator++;
+      }
 
-        while (beginIterator <= endIterator)
-        {
-            if (firstDigit == NULL)
-            {
-                short num = find_number(beginIterator, endIterator + 1);
-                if (num != -1) firstDigit = num;
-                else beginIterator++;
-            }
+      if (secondDigit == NULL)
+      {
+        short num = find_number(endIterator, beginIterator - 1, -1);
+        if (num != -1)
+          secondDigit = num;
+        else
+          endIterator--;
+      }
 
-            if (secondDigit == NULL)
-            {
-                short num = find_number(endIterator, beginIterator - 1, -1);
-                if (num != -1) secondDigit = num;
-                else endIterator--;
-            }
-
-            if (firstDigit != NULL && secondDigit != NULL) break;
-        }
-
-        short numInLine = firstDigit * 10 + secondDigit;
-        sumTotal += numInLine;
-
-        cout << line << ": " << numInLine << endl;
+      if (firstDigit != NULL && secondDigit != NULL)
+        break;
     }
 
-    cout <<  sumTotal;
+    short numInLine = firstDigit * 10 + secondDigit;
+    sumTotal += numInLine;
 
-    return 0;
+    cout << line << ": " << numInLine << endl;
+  }
+
+  cout << sumTotal;
+
+  return 0;
 }

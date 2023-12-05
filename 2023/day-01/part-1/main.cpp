@@ -15,10 +15,10 @@ inline int to_number(char c)
 
 int main()
 {
-    #ifdef __test__
-        freopen ("in.txt", "r", stdin);
-        freopen ("out.txt", "w", stdout);
-    #endif
+#ifdef __test__
+    freopen("in.txt", "r", stdin);
+    freopen("out.txt", "w", stdout);
+#endif
 
     string line;
     int sumTotal = 0;
@@ -35,17 +35,22 @@ int main()
 
             if (firstDigit == NULL)
             {
-                if (is_number(beginChar)) firstDigit = to_number(beginChar);
-                else beginIterator++;
+                if (is_number(beginChar))
+                    firstDigit = to_number(beginChar);
+                else
+                    beginIterator++;
             }
 
             if (secondDigit == NULL)
             {
-                if (is_number(endChar)) secondDigit = to_number(endChar);
-                else endIterator--;
+                if (is_number(endChar))
+                    secondDigit = to_number(endChar);
+                else
+                    endIterator--;
             }
 
-            if (firstDigit != NULL && secondDigit != NULL) break;
+            if (firstDigit != NULL && secondDigit != NULL)
+                break;
         }
 
         short numInLine = firstDigit * 10 + secondDigit;
@@ -54,7 +59,7 @@ int main()
         cout << line << ": " << numInLine << endl;
     }
 
-    cout <<  sumTotal;
+    cout << sumTotal;
 
     return 0;
 }
