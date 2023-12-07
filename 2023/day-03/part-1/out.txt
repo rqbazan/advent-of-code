@@ -1,0 +1,3649 @@
+extract_num: 644
+(0, 6) ... (0, 8) is_valid: 1
+
+extract_num: 612
+(0, 21) ... (0, 23) is_valid: 1
+
+extract_num: 254
+(0, 31) ... (0, 33) is_valid: 1
+
+extract_num: 638
+(0, 36) ... (0, 38) is_valid: 1
+
+extract_num: 802
+(0, 53) ... (0, 55) is_valid: 1
+
+extract_num: 118
+(0, 89) ... (0, 91) is_valid: 1
+
+extract_num: 317
+(0, 129) ... (0, 131) is_valid: 0
+
+extract_num: 691
+(0, 133) ... (0, 135) is_valid: 1
+
+extract_num: 321
+(1, 12) ... (1, 14) is_valid: 0
+
+extract_num: 176
+(1, 17) ... (1, 19) is_valid: 1
+
+extract_num: 906
+(1, 41) ... (1, 43) is_valid: 1
+
+extract_num: 518
+(1, 61) ... (1, 63) is_valid: 1
+
+extract_num: 994
+(1, 80) ... (1, 82) is_valid: 1
+
+extract_num: 938
+(1, 85) ... (1, 87) is_valid: 0
+
+extract_num: 579
+(1, 95) ... (1, 97) is_valid: 1
+
+extract_num: 35
+(1, 102) ... (1, 103) is_valid: 1
+
+extract_num: 155
+(1, 108) ... (1, 110) is_valid: 0
+
+extract_num: 320
+(1, 122) ... (1, 124) is_valid: 1
+
+extract_num: 939
+(2, 3) ... (2, 5) is_valid: 1
+
+extract_num: 225
+(2, 8) ... (2, 10) is_valid: 1
+
+extract_num: 41
+(2, 51) ... (2, 52) is_valid: 1
+
+extract_num: 102
+(2, 89) ... (2, 91) is_valid: 1
+
+extract_num: 603
+(2, 118) ... (2, 120) is_valid: 0
+
+extract_num: 413
+(2, 127) ... (2, 129) is_valid: 1
+
+extract_num: 470
+(3, 12) ... (3, 14) is_valid: 0
+
+extract_num: 128
+(3, 16) ... (3, 18) is_valid: 1
+
+extract_num: 288
+(3, 22) ... (3, 24) is_valid: 1
+
+extract_num: 442
+(3, 35) ... (3, 37) is_valid: 1
+
+extract_num: 191
+(3, 46) ... (3, 48) is_valid: 1
+
+extract_num: 360
+(3, 68) ... (3, 70) is_valid: 1
+
+extract_num: 218
+(3, 75) ... (3, 77) is_valid: 1
+
+extract_num: 916
+(3, 93) ... (3, 95) is_valid: 1
+
+extract_num: 552
+(3, 101) ... (3, 103) is_valid: 1
+
+extract_num: 171
+(3, 105) ... (3, 107) is_valid: 1
+
+extract_num: 747
+(3, 110) ... (3, 112) is_valid: 1
+
+extract_num: 51
+(3, 114) ... (3, 115) is_valid: 1
+
+extract_num: 111
+(3, 122) ... (3, 124) is_valid: 1
+
+extract_num: 176
+(4, 27) ... (4, 29) is_valid: 1
+
+extract_num: 62
+(4, 41) ... (4, 42) is_valid: 1
+
+extract_num: 715
+(4, 54) ... (4, 56) is_valid: 1
+
+extract_num: 831
+(4, 58) ... (4, 60) is_valid: 1
+
+extract_num: 937
+(4, 80) ... (4, 82) is_valid: 0
+
+extract_num: 782
+(4, 87) ... (4, 89) is_valid: 1
+
+extract_num: 645
+(4, 129) ... (4, 131) is_valid: 1
+
+extract_num: 688
+(5, 1) ... (5, 3) is_valid: 1
+
+extract_num: 469
+(5, 11) ... (5, 13) is_valid: 1
+
+extract_num: 284
+(5, 23) ... (5, 25) is_valid: 1
+
+extract_num: 49
+(5, 47) ... (5, 48) is_valid: 1
+
+extract_num: 318
+(5, 65) ... (5, 67) is_valid: 1
+
+extract_num: 182
+(5, 70) ... (5, 72) is_valid: 1
+
+extract_num: 200
+(5, 96) ... (5, 98) is_valid: 0
+
+extract_num: 480
+(5, 105) ... (5, 107) is_valid: 1
+
+extract_num: 182
+(5, 109) ... (5, 111) is_valid: 1
+
+extract_num: 257
+(5, 116) ... (5, 118) is_valid: 1
+
+extract_num: 197
+(6, 19) ... (6, 21) is_valid: 1
+
+extract_num: 611
+(6, 32) ... (6, 34) is_valid: 1
+
+extract_num: 159
+(6, 58) ... (6, 60) is_valid: 0
+
+extract_num: 71
+(6, 62) ... (6, 63) is_valid: 1
+
+extract_num: 947
+(6, 75) ... (6, 77) is_valid: 1
+
+extract_num: 190
+(6, 92) ... (6, 94) is_valid: 1
+
+extract_num: 33
+(6, 120) ... (6, 121) is_valid: 1
+
+extract_num: 158
+(6, 124) ... (6, 126) is_valid: 1
+
+extract_num: 252
+(6, 133) ... (6, 135) is_valid: 0
+
+extract_num: 537
+(7, 4) ... (7, 6) is_valid: 1
+
+extract_num: 900
+(7, 8) ... (7, 10) is_valid: 1
+
+extract_num: 404
+(7, 40) ... (7, 42) is_valid: 1
+
+extract_num: 172
+(7, 53) ... (7, 55) is_valid: 1
+
+extract_num: 741
+(7, 69) ... (7, 71) is_valid: 1
+
+extract_num: 299
+(7, 110) ... (7, 112) is_valid: 1
+
+extract_num: 908
+(8, 15) ... (8, 17) is_valid: 1
+
+extract_num: 354
+(8, 31) ... (8, 33) is_valid: 1
+
+extract_num: 15
+(8, 59) ... (8, 60) is_valid: 1
+
+extract_num: 881
+(8, 63) ... (8, 65) is_valid: 1
+
+extract_num: 939
+(8, 88) ... (8, 90) is_valid: 1
+
+extract_num: 286
+(8, 116) ... (8, 118) is_valid: 1
+
+extract_num: 945
+(8, 122) ... (8, 124) is_valid: 1
+
+extract_num: 767
+(8, 127) ... (8, 129) is_valid: 1
+
+extract_num: 749
+(9, 11) ... (9, 13) is_valid: 1
+
+extract_num: 811
+(9, 22) ... (9, 24) is_valid: 1
+
+extract_num: 667
+(9, 36) ... (9, 38) is_valid: 1
+
+extract_num: 257
+(9, 45) ... (9, 47) is_valid: 1
+
+extract_num: 309
+(9, 50) ... (9, 52) is_valid: 1
+
+extract_num: 477
+(9, 54) ... (9, 56) is_valid: 1
+
+extract_num: 212
+(9, 74) ... (9, 76) is_valid: 1
+
+extract_num: 746
+(9, 83) ... (9, 85) is_valid: 1
+
+extract_num: 275
+(9, 95) ... (9, 97) is_valid: 1
+
+extract_num: 264
+(9, 112) ... (9, 114) is_valid: 1
+
+extract_num: 720
+(9, 132) ... (9, 134) is_valid: 1
+
+extract_num: 827
+(10, 6) ... (10, 8) is_valid: 1
+
+extract_num: 279
+(10, 15) ... (10, 17) is_valid: 1
+
+extract_num: 319
+(10, 32) ... (10, 34) is_valid: 1
+
+extract_num: 257
+(10, 59) ... (10, 61) is_valid: 1
+
+extract_num: 150
+(10, 63) ... (10, 65) is_valid: 1
+
+extract_num: 118
+(10, 67) ... (10, 69) is_valid: 0
+
+extract_num: 979
+(10, 99) ... (10, 101) is_valid: 1
+
+extract_num: 377
+(10, 105) ... (10, 107) is_valid: 0
+
+extract_num: 167
+(10, 122) ... (10, 124) is_valid: 1
+
+extract_num: 793
+(10, 137) ... (10, 139) is_valid: 1
+
+extract_num: 197
+(11, 11) ... (11, 13) is_valid: 1
+
+extract_num: 298
+(11, 19) ... (11, 21) is_valid: 1
+
+extract_num: 782
+(11, 27) ... (11, 29) is_valid: 0
+
+extract_num: 87
+(11, 71) ... (11, 72) is_valid: 1
+
+extract_num: 534
+(11, 79) ... (11, 81) is_valid: 1
+
+extract_num: 182
+(11, 89) ... (11, 91) is_valid: 1
+
+extract_num: 546
+(11, 130) ... (11, 132) is_valid: 1
+
+extract_num: 756
+(12, 31) ... (12, 33) is_valid: 1
+
+extract_num: 609
+(12, 51) ... (12, 53) is_valid: 1
+
+extract_num: 363
+(12, 74) ... (12, 76) is_valid: 0
+
+extract_num: 459
+(12, 109) ... (12, 111) is_valid: 0
+
+extract_num: 77
+(12, 116) ... (12, 117) is_valid: 0
+
+extract_num: 450
+(12, 134) ... (12, 136) is_valid: 1
+
+extract_num: 255
+(13, 4) ... (13, 6) is_valid: 0
+
+extract_num: 324
+(13, 39) ... (13, 41) is_valid: 1
+
+extract_num: 486
+(13, 78) ... (13, 80) is_valid: 1
+
+extract_num: 191
+(13, 84) ... (13, 86) is_valid: 1
+
+extract_num: 947
+(13, 93) ... (13, 95) is_valid: 1
+
+extract_num: 161
+(13, 124) ... (13, 126) is_valid: 1
+
+extract_num: 218
+(13, 129) ... (13, 131) is_valid: 1
+
+extract_num: 993
+(14, 10) ... (14, 12) is_valid: 1
+
+extract_num: 73
+(14, 28) ... (14, 29) is_valid: 0
+
+extract_num: 523
+(14, 34) ... (14, 36) is_valid: 1
+
+extract_num: 832
+(14, 55) ... (14, 57) is_valid: 1
+
+extract_num: 71
+(14, 61) ... (14, 62) is_valid: 1
+
+extract_num: 639
+(14, 67) ... (14, 69) is_valid: 1
+
+extract_num: 736
+(14, 88) ... (14, 90) is_valid: 1
+
+extract_num: 367
+(14, 98) ... (14, 100) is_valid: 1
+
+extract_num: 109
+(14, 116) ... (14, 118) is_valid: 1
+
+extract_num: 370
+(14, 137) ... (14, 139) is_valid: 0
+
+extract_num: 254
+(15, 45) ... (15, 47) is_valid: 1
+
+extract_num: 712
+(15, 50) ... (15, 52) is_valid: 1
+
+extract_num: 945
+(15, 84) ... (15, 86) is_valid: 1
+
+extract_num: 260
+(15, 92) ... (15, 94) is_valid: 1
+
+extract_num: 97
+(15, 108) ... (15, 109) is_valid: 1
+
+extract_num: 569
+(16, 30) ... (16, 32) is_valid: 0
+
+extract_num: 82
+(16, 55) ... (16, 56) is_valid: 1
+
+extract_num: 512
+(16, 59) ... (16, 61) is_valid: 1
+
+extract_num: 913
+(16, 121) ... (16, 123) is_valid: 1
+
+extract_num: 888
+(16, 127) ... (16, 129) is_valid: 1
+
+extract_num: 695
+(16, 132) ... (16, 134) is_valid: 1
+
+extract_num: 221
+(17, 6) ... (17, 8) is_valid: 1
+
+extract_num: 146
+(17, 10) ... (17, 12) is_valid: 1
+
+extract_num: 417
+(17, 72) ... (17, 74) is_valid: 1
+
+extract_num: 571
+(17, 83) ... (17, 85) is_valid: 1
+
+extract_num: 481
+(17, 102) ... (17, 104) is_valid: 1
+
+extract_num: 687
+(17, 111) ... (17, 113) is_valid: 1
+
+extract_num: 157
+(17, 115) ... (17, 117) is_valid: 0
+
+extract_num: 926
+(17, 136) ... (17, 138) is_valid: 1
+
+extract_num: 897
+(18, 14) ... (18, 16) is_valid: 1
+
+extract_num: 621
+(18, 23) ... (18, 25) is_valid: 1
+
+extract_num: 885
+(18, 31) ... (18, 33) is_valid: 1
+
+extract_num: 247
+(18, 36) ... (18, 38) is_valid: 1
+
+extract_num: 506
+(18, 40) ... (18, 42) is_valid: 1
+
+extract_num: 221
+(18, 65) ... (18, 67) is_valid: 1
+
+extract_num: 464
+(18, 93) ... (18, 95) is_valid: 1
+
+extract_num: 513
+(18, 97) ... (18, 99) is_valid: 1
+
+extract_num: 340
+(18, 121) ... (18, 123) is_valid: 1
+
+extract_num: 715
+(19, 27) ... (19, 29) is_valid: 1
+
+extract_num: 456
+(19, 46) ... (19, 48) is_valid: 1
+
+extract_num: 445
+(19, 55) ... (19, 57) is_valid: 1
+
+extract_num: 992
+(19, 61) ... (19, 63) is_valid: 1
+
+extract_num: 475
+(19, 102) ... (19, 104) is_valid: 1
+
+extract_num: 132
+(19, 109) ... (19, 111) is_valid: 1
+
+extract_num: 638
+(19, 114) ... (19, 116) is_valid: 1
+
+extract_num: 171
+(19, 126) ... (19, 128) is_valid: 1
+
+extract_num: 340
+(19, 130) ... (19, 132) is_valid: 0
+
+extract_num: 561
+(19, 137) ... (19, 139) is_valid: 0
+
+extract_num: 839
+(20, 17) ... (20, 19) is_valid: 0
+
+extract_num: 528
+(20, 51) ... (20, 53) is_valid: 1
+
+extract_num: 785
+(20, 83) ... (20, 85) is_valid: 1
+
+extract_num: 626
+(20, 98) ... (20, 100) is_valid: 1
+
+extract_num: 850
+(20, 119) ... (20, 121) is_valid: 1
+
+extract_num: 975
+(21, 24) ... (21, 26) is_valid: 1
+
+extract_num: 278
+(21, 31) ... (21, 33) is_valid: 1
+
+extract_num: 997
+(21, 68) ... (21, 70) is_valid: 1
+
+extract_num: 992
+(21, 74) ... (21, 76) is_valid: 1
+
+extract_num: 485
+(21, 87) ... (21, 89) is_valid: 1
+
+extract_num: 84
+(21, 95) ... (21, 96) is_valid: 1
+
+extract_num: 923
+(21, 104) ... (21, 106) is_valid: 1
+
+extract_num: 397
+(21, 110) ... (21, 112) is_valid: 1
+
+extract_num: 259
+(21, 115) ... (21, 117) is_valid: 1
+
+extract_num: 328
+(22, 2) ... (22, 4) is_valid: 1
+
+extract_num: 207
+(22, 6) ... (22, 8) is_valid: 1
+
+extract_num: 509
+(22, 15) ... (22, 17) is_valid: 1
+
+extract_num: 529
+(22, 35) ... (22, 37) is_valid: 1
+
+extract_num: 846
+(22, 39) ... (22, 41) is_valid: 1
+
+extract_num: 386
+(22, 82) ... (22, 84) is_valid: 1
+
+extract_num: 157
+(22, 121) ... (22, 123) is_valid: 1
+
+extract_num: 994
+(22, 129) ... (22, 131) is_valid: 1
+
+extract_num: 352
+(23, 19) ... (23, 21) is_valid: 1
+
+extract_num: 184
+(23, 25) ... (23, 27) is_valid: 1
+
+extract_num: 707
+(23, 31) ... (23, 33) is_valid: 1
+
+extract_num: 454
+(23, 45) ... (23, 47) is_valid: 1
+
+extract_num: 512
+(23, 52) ... (23, 54) is_valid: 1
+
+extract_num: 208
+(23, 59) ... (23, 61) is_valid: 1
+
+extract_num: 926
+(23, 63) ... (23, 65) is_valid: 1
+
+extract_num: 188
+(23, 70) ... (23, 72) is_valid: 1
+
+extract_num: 573
+(23, 92) ... (23, 94) is_valid: 1
+
+extract_num: 731
+(23, 100) ... (23, 102) is_valid: 0
+
+extract_num: 19
+(23, 107) ... (23, 108) is_valid: 1
+
+extract_num: 566
+(23, 113) ... (23, 115) is_valid: 1
+
+extract_num: 757
+(23, 117) ... (23, 119) is_valid: 1
+
+extract_num: 348
+(23, 133) ... (23, 135) is_valid: 1
+
+extract_num: 404
+(24, 40) ... (24, 42) is_valid: 1
+
+extract_num: 255
+(24, 75) ... (24, 77) is_valid: 1
+
+extract_num: 317
+(24, 79) ... (24, 81) is_valid: 1
+
+extract_num: 991
+(24, 87) ... (24, 89) is_valid: 0
+
+extract_num: 126
+(24, 96) ... (24, 98) is_valid: 1
+
+extract_num: 704
+(24, 124) ... (24, 126) is_valid: 1
+
+extract_num: 788
+(24, 128) ... (24, 130) is_valid: 1
+
+extract_num: 992
+(25, 5) ... (25, 7) is_valid: 1
+
+extract_num: 979
+(25, 14) ... (25, 16) is_valid: 1
+
+extract_num: 264
+(25, 34) ... (25, 36) is_valid: 1
+
+extract_num: 242
+(25, 63) ... (25, 65) is_valid: 1
+
+extract_num: 171
+(25, 69) ... (25, 71) is_valid: 1
+
+extract_num: 888
+(25, 83) ... (25, 85) is_valid: 1
+
+extract_num: 35
+(25, 92) ... (25, 93) is_valid: 1
+
+extract_num: 39
+(25, 101) ... (25, 102) is_valid: 1
+
+extract_num: 978
+(25, 109) ... (25, 111) is_valid: 1
+
+extract_num: 955
+(25, 113) ... (25, 115) is_valid: 1
+
+extract_num: 25
+(25, 120) ... (25, 121) is_valid: 1
+
+extract_num: 256
+(25, 134) ... (25, 136) is_valid: 1
+
+extract_num: 760
+(26, 10) ... (26, 12) is_valid: 1
+
+extract_num: 904
+(26, 25) ... (26, 27) is_valid: 0
+
+extract_num: 155
+(26, 30) ... (26, 32) is_valid: 1
+
+extract_num: 492
+(26, 38) ... (26, 40) is_valid: 1
+
+extract_num: 306
+(26, 52) ... (26, 54) is_valid: 1
+
+extract_num: 456
+(26, 74) ... (26, 76) is_valid: 1
+
+extract_num: 694
+(26, 129) ... (26, 131) is_valid: 1
+
+extract_num: 158
+(27, 16) ... (27, 18) is_valid: 1
+
+extract_num: 115
+(27, 45) ... (27, 47) is_valid: 1
+
+extract_num: 922
+(27, 65) ... (27, 67) is_valid: 1
+
+extract_num: 651
+(27, 70) ... (27, 72) is_valid: 0
+
+extract_num: 297
+(27, 136) ... (27, 138) is_valid: 0
+
+extract_num: 677
+(28, 3) ... (28, 5) is_valid: 0
+
+extract_num: 46
+(28, 10) ... (28, 11) is_valid: 1
+
+extract_num: 573
+(28, 27) ... (28, 29) is_valid: 1
+
+extract_num: 243
+(28, 36) ... (28, 38) is_valid: 1
+
+extract_num: 595
+(28, 40) ... (28, 42) is_valid: 1
+
+extract_num: 446
+(28, 52) ... (28, 54) is_valid: 0
+
+extract_num: 121
+(28, 61) ... (28, 63) is_valid: 1
+
+extract_num: 748
+(28, 75) ... (28, 77) is_valid: 1
+
+extract_num: 868
+(28, 79) ... (28, 81) is_valid: 1
+
+extract_num: 835
+(28, 102) ... (28, 104) is_valid: 1
+
+extract_num: 621
+(28, 114) ... (28, 116) is_valid: 1
+
+extract_num: 300
+(28, 123) ... (28, 125) is_valid: 1
+
+extract_num: 22
+(28, 129) ... (28, 130) is_valid: 1
+
+extract_num: 635
+(29, 13) ... (29, 15) is_valid: 1
+
+extract_num: 910
+(29, 46) ... (29, 48) is_valid: 1
+
+extract_num: 907
+(29, 95) ... (29, 97) is_valid: 1
+
+extract_num: 43
+(29, 120) ... (29, 121) is_valid: 1
+
+extract_num: 791
+(29, 136) ... (29, 138) is_valid: 0
+
+extract_num: 140
+(30, 1) ... (30, 3) is_valid: 1
+
+extract_num: 218
+(30, 9) ... (30, 11) is_valid: 1
+
+extract_num: 17
+(30, 18) ... (30, 19) is_valid: 1
+
+extract_num: 246
+(30, 30) ... (30, 32) is_valid: 1
+
+extract_num: 705
+(30, 50) ... (30, 52) is_valid: 1
+
+extract_num: 445
+(30, 75) ... (30, 77) is_valid: 1
+
+extract_num: 471
+(30, 85) ... (30, 87) is_valid: 1
+
+extract_num: 623
+(30, 110) ... (30, 112) is_valid: 1
+
+extract_num: 326
+(30, 116) ... (30, 118) is_valid: 1
+
+extract_num: 126
+(31, 5) ... (31, 7) is_valid: 1
+
+extract_num: 411
+(31, 25) ... (31, 27) is_valid: 0
+
+extract_num: 979
+(31, 36) ... (31, 38) is_valid: 1
+
+extract_num: 630
+(31, 40) ... (31, 42) is_valid: 1
+
+extract_num: 81
+(31, 56) ... (31, 57) is_valid: 1
+
+extract_num: 419
+(31, 59) ... (31, 61) is_valid: 1
+
+extract_num: 131
+(31, 65) ... (31, 67) is_valid: 1
+
+extract_num: 241
+(31, 91) ... (31, 93) is_valid: 1
+
+extract_num: 660
+(31, 102) ... (31, 104) is_valid: 1
+
+extract_num: 540
+(32, 14) ... (32, 16) is_valid: 1
+
+extract_num: 858
+(32, 30) ... (32, 32) is_valid: 1
+
+extract_num: 733
+(32, 95) ... (32, 97) is_valid: 1
+
+extract_num: 56
+(32, 99) ... (32, 100) is_valid: 1
+
+extract_num: 816
+(32, 107) ... (32, 109) is_valid: 1
+
+extract_num: 243
+(32, 120) ... (32, 122) is_valid: 0
+
+extract_num: 984
+(32, 127) ... (32, 129) is_valid: 1
+
+extract_num: 546
+(33, 8) ... (33, 10) is_valid: 1
+
+extract_num: 518
+(33, 20) ... (33, 22) is_valid: 1
+
+extract_num: 21
+(33, 36) ... (33, 37) is_valid: 1
+
+extract_num: 834
+(33, 41) ... (33, 43) is_valid: 1
+
+extract_num: 641
+(33, 47) ... (33, 49) is_valid: 1
+
+extract_num: 46
+(33, 63) ... (33, 64) is_valid: 1
+
+extract_num: 471
+(33, 75) ... (33, 77) is_valid: 0
+
+extract_num: 675
+(33, 102) ... (33, 104) is_valid: 1
+
+extract_num: 521
+(33, 135) ... (33, 137) is_valid: 1
+
+extract_num: 65
+(34, 30) ... (34, 31) is_valid: 1
+
+extract_num: 978
+(34, 53) ... (34, 55) is_valid: 1
+
+extract_num: 548
+(34, 85) ... (34, 87) is_valid: 1
+
+extract_num: 749
+(34, 93) ... (34, 95) is_valid: 1
+
+extract_num: 106
+(34, 108) ... (34, 110) is_valid: 1
+
+extract_num: 246
+(34, 120) ... (34, 122) is_valid: 1
+
+extract_num: 899
+(35, 7) ... (35, 9) is_valid: 1
+
+extract_num: 593
+(35, 12) ... (35, 14) is_valid: 1
+
+extract_num: 420
+(35, 24) ... (35, 26) is_valid: 1
+
+extract_num: 258
+(35, 35) ... (35, 37) is_valid: 1
+
+extract_num: 798
+(35, 39) ... (35, 41) is_valid: 1
+
+extract_num: 814
+(35, 43) ... (35, 45) is_valid: 1
+
+extract_num: 336
+(35, 57) ... (35, 59) is_valid: 1
+
+extract_num: 360
+(35, 80) ... (35, 82) is_valid: 1
+
+extract_num: 238
+(35, 99) ... (35, 101) is_valid: 1
+
+extract_num: 354
+(35, 129) ... (35, 131) is_valid: 1
+
+extract_num: 485
+(36, 30) ... (36, 32) is_valid: 1
+
+extract_num: 361
+(36, 47) ... (36, 49) is_valid: 1
+
+extract_num: 520
+(36, 51) ... (36, 53) is_valid: 1
+
+extract_num: 742
+(36, 62) ... (36, 64) is_valid: 1
+
+extract_num: 683
+(36, 68) ... (36, 70) is_valid: 1
+
+extract_num: 136
+(36, 86) ... (36, 88) is_valid: 1
+
+extract_num: 76
+(36, 137) ... (36, 138) is_valid: 1
+
+extract_num: 575
+(37, 16) ... (37, 18) is_valid: 0
+
+extract_num: 220
+(37, 34) ... (37, 36) is_valid: 1
+
+extract_num: 800
+(37, 74) ... (37, 76) is_valid: 1
+
+extract_num: 545
+(37, 94) ... (37, 96) is_valid: 1
+
+extract_num: 178
+(37, 102) ... (37, 104) is_valid: 1
+
+extract_num: 604
+(37, 111) ... (37, 113) is_valid: 1
+
+extract_num: 659
+(37, 120) ... (37, 122) is_valid: 1
+
+extract_num: 670
+(37, 124) ... (37, 126) is_valid: 1
+
+extract_num: 959
+(38, 7) ... (38, 9) is_valid: 1
+
+extract_num: 175
+(38, 21) ... (38, 23) is_valid: 1
+
+extract_num: 825
+(38, 29) ... (38, 31) is_valid: 1
+
+extract_num: 838
+(38, 39) ... (38, 41) is_valid: 1
+
+extract_num: 547
+(38, 52) ... (38, 54) is_valid: 1
+
+extract_num: 346
+(38, 66) ... (38, 68) is_valid: 1
+
+extract_num: 553
+(38, 70) ... (38, 72) is_valid: 1
+
+extract_num: 867
+(38, 80) ... (38, 82) is_valid: 1
+
+extract_num: 60
+(38, 107) ... (38, 108) is_valid: 1
+
+extract_num: 130
+(38, 116) ... (38, 118) is_valid: 1
+
+extract_num: 517
+(38, 135) ... (38, 137) is_valid: 1
+
+extract_num: 121
+(39, 13) ... (39, 15) is_valid: 1
+
+extract_num: 737
+(39, 17) ... (39, 19) is_valid: 1
+
+extract_num: 773
+(39, 25) ... (39, 27) is_valid: 1
+
+extract_num: 124
+(39, 48) ... (39, 50) is_valid: 0
+
+extract_num: 609
+(39, 56) ... (39, 58) is_valid: 1
+
+extract_num: 16
+(39, 75) ... (39, 76) is_valid: 1
+
+extract_num: 359
+(39, 94) ... (39, 96) is_valid: 1
+
+extract_num: 90
+(39, 99) ... (39, 100) is_valid: 1
+
+extract_num: 627
+(39, 130) ... (39, 132) is_valid: 0
+
+extract_num: 485
+(40, 4) ... (40, 6) is_valid: 0
+
+extract_num: 884
+(40, 33) ... (40, 35) is_valid: 1
+
+extract_num: 194
+(40, 37) ... (40, 39) is_valid: 1
+
+extract_num: 485
+(40, 52) ... (40, 54) is_valid: 1
+
+extract_num: 489
+(40, 61) ... (40, 63) is_valid: 1
+
+extract_num: 138
+(40, 78) ... (40, 80) is_valid: 1
+
+extract_num: 426
+(40, 88) ... (40, 90) is_valid: 1
+
+extract_num: 527
+(40, 102) ... (40, 104) is_valid: 1
+
+extract_num: 620
+(40, 106) ... (40, 108) is_valid: 1
+
+extract_num: 600
+(40, 112) ... (40, 114) is_valid: 1
+
+extract_num: 99
+(40, 118) ... (40, 119) is_valid: 0
+
+extract_num: 778
+(40, 125) ... (40, 127) is_valid: 1
+
+extract_num: 510
+(41, 10) ... (41, 12) is_valid: 1
+
+extract_num: 236
+(41, 14) ... (41, 16) is_valid: 1
+
+extract_num: 344
+(41, 25) ... (41, 27) is_valid: 1
+
+extract_num: 51
+(41, 30) ... (41, 31) is_valid: 1
+
+extract_num: 766
+(41, 42) ... (41, 44) is_valid: 1
+
+extract_num: 588
+(41, 47) ... (41, 49) is_valid: 1
+
+extract_num: 66
+(41, 57) ... (41, 58) is_valid: 1
+
+extract_num: 665
+(41, 73) ... (41, 75) is_valid: 1
+
+extract_num: 366
+(41, 93) ... (41, 95) is_valid: 0
+
+extract_num: 999
+(41, 121) ... (41, 123) is_valid: 1
+
+extract_num: 259
+(42, 6) ... (42, 8) is_valid: 1
+
+extract_num: 525
+(42, 38) ... (42, 40) is_valid: 1
+
+extract_num: 447
+(42, 60) ... (42, 62) is_valid: 1
+
+extract_num: 128
+(42, 65) ... (42, 67) is_valid: 1
+
+extract_num: 961
+(42, 82) ... (42, 84) is_valid: 1
+
+extract_num: 752
+(42, 109) ... (42, 111) is_valid: 1
+
+extract_num: 797
+(42, 116) ... (42, 118) is_valid: 1
+
+extract_num: 872
+(42, 129) ... (42, 131) is_valid: 1
+
+extract_num: 739
+(42, 134) ... (42, 136) is_valid: 1
+
+extract_num: 771
+(43, 28) ... (43, 30) is_valid: 1
+
+extract_num: 840
+(43, 32) ... (43, 34) is_valid: 1
+
+extract_num: 537
+(43, 43) ... (43, 45) is_valid: 1
+
+extract_num: 493
+(43, 49) ... (43, 51) is_valid: 1
+
+extract_num: 404
+(43, 69) ... (43, 71) is_valid: 1
+
+extract_num: 376
+(43, 73) ... (43, 75) is_valid: 1
+
+extract_num: 759
+(43, 78) ... (43, 80) is_valid: 1
+
+extract_num: 287
+(43, 91) ... (43, 93) is_valid: 1
+
+extract_num: 614
+(43, 122) ... (43, 124) is_valid: 1
+
+extract_num: 896
+(44, 6) ... (44, 8) is_valid: 1
+
+extract_num: 513
+(44, 16) ... (44, 18) is_valid: 0
+
+extract_num: 208
+(44, 39) ... (44, 41) is_valid: 1
+
+extract_num: 4
+(44, 55) ... (44, 55) is_valid: 1
+
+extract_num: 11
+(44, 58) ... (44, 59) is_valid: 1
+
+extract_num: 475
+(44, 65) ... (44, 67) is_valid: 1
+
+extract_num: 346
+(44, 102) ... (44, 104) is_valid: 1
+
+extract_num: 171
+(44, 106) ... (44, 108) is_valid: 1
+
+extract_num: 104
+(44, 112) ... (44, 114) is_valid: 1
+
+extract_num: 34
+(44, 134) ... (44, 135) is_valid: 1
+
+extract_num: 292
+(45, 10) ... (45, 12) is_valid: 1
+
+extract_num: 570
+(45, 45) ... (45, 47) is_valid: 1
+
+extract_num: 58
+(45, 52) ... (45, 53) is_valid: 1
+
+extract_num: 455
+(45, 71) ... (45, 73) is_valid: 1
+
+extract_num: 275
+(45, 81) ... (45, 83) is_valid: 1
+
+extract_num: 781
+(45, 90) ... (45, 92) is_valid: 1
+
+extract_num: 162
+(45, 95) ... (45, 97) is_valid: 0
+
+extract_num: 87
+(45, 99) ... (45, 100) is_valid: 1
+
+extract_num: 927
+(45, 122) ... (45, 124) is_valid: 1
+
+extract_num: 220
+(45, 128) ... (45, 130) is_valid: 1
+
+extract_num: 883
+(45, 137) ... (45, 139) is_valid: 1
+
+extract_num: 390
+(46, 14) ... (46, 16) is_valid: 1
+
+extract_num: 937
+(46, 25) ... (46, 27) is_valid: 1
+
+extract_num: 680
+(46, 41) ... (46, 43) is_valid: 1
+
+extract_num: 845
+(46, 56) ... (46, 58) is_valid: 1
+
+extract_num: 998
+(46, 63) ... (46, 65) is_valid: 1
+
+extract_num: 890
+(46, 76) ... (46, 78) is_valid: 1
+
+extract_num: 240
+(46, 103) ... (46, 105) is_valid: 1
+
+extract_num: 128
+(46, 109) ... (46, 111) is_valid: 1
+
+extract_num: 102
+(46, 116) ... (46, 118) is_valid: 1
+
+extract_num: 788
+(46, 132) ... (46, 134) is_valid: 0
+
+extract_num: 365
+(47, 4) ... (47, 6) is_valid: 1
+
+extract_num: 914
+(47, 10) ... (47, 12) is_valid: 1
+
+extract_num: 988
+(47, 20) ... (47, 22) is_valid: 0
+
+extract_num: 439
+(47, 32) ... (47, 34) is_valid: 1
+
+extract_num: 472
+(47, 47) ... (47, 49) is_valid: 1
+
+extract_num: 10
+(47, 69) ... (47, 70) is_valid: 1
+
+extract_num: 894
+(47, 89) ... (47, 91) is_valid: 1
+
+extract_num: 475
+(47, 99) ... (47, 101) is_valid: 1
+
+extract_num: 192
+(48, 25) ... (48, 27) is_valid: 0
+
+extract_num: 851
+(48, 42) ... (48, 44) is_valid: 1
+
+extract_num: 332
+(48, 55) ... (48, 57) is_valid: 1
+
+extract_num: 868
+(48, 73) ... (48, 75) is_valid: 1
+
+extract_num: 351
+(48, 78) ... (48, 80) is_valid: 1
+
+extract_num: 160
+(48, 83) ... (48, 85) is_valid: 1
+
+extract_num: 830
+(48, 93) ... (48, 95) is_valid: 1
+
+extract_num: 776
+(48, 112) ... (48, 114) is_valid: 1
+
+extract_num: 608
+(48, 127) ... (48, 129) is_valid: 1
+
+extract_num: 52
+(48, 137) ... (48, 138) is_valid: 1
+
+extract_num: 542
+(49, 7) ... (49, 9) is_valid: 1
+
+extract_num: 966
+(49, 17) ... (49, 19) is_valid: 1
+
+extract_num: 114
+(49, 51) ... (49, 53) is_valid: 1
+
+extract_num: 345
+(49, 61) ... (49, 63) is_valid: 1
+
+extract_num: 984
+(49, 67) ... (49, 69) is_valid: 1
+
+extract_num: 708
+(49, 97) ... (49, 99) is_valid: 1
+
+extract_num: 264
+(49, 104) ... (49, 106) is_valid: 0
+
+extract_num: 611
+(49, 132) ... (49, 134) is_valid: 1
+
+extract_num: 45
+(50, 12) ... (50, 13) is_valid: 1
+
+extract_num: 344
+(50, 32) ... (50, 34) is_valid: 1
+
+extract_num: 809
+(50, 71) ... (50, 73) is_valid: 1
+
+extract_num: 958
+(50, 75) ... (50, 77) is_valid: 1
+
+extract_num: 86
+(50, 101) ... (50, 102) is_valid: 1
+
+extract_num: 727
+(50, 115) ... (50, 117) is_valid: 1
+
+extract_num: 359
+(50, 127) ... (50, 129) is_valid: 1
+
+extract_num: 700
+(50, 136) ... (50, 138) is_valid: 1
+
+extract_num: 45
+(51, 7) ... (51, 8) is_valid: 1
+
+extract_num: 111
+(51, 18) ... (51, 20) is_valid: 1
+
+extract_num: 285
+(51, 24) ... (51, 26) is_valid: 1
+
+extract_num: 23
+(51, 38) ... (51, 39) is_valid: 1
+
+extract_num: 306
+(51, 43) ... (51, 45) is_valid: 1
+
+extract_num: 755
+(51, 47) ... (51, 49) is_valid: 1
+
+extract_num: 720
+(51, 58) ... (51, 60) is_valid: 1
+
+extract_num: 727
+(51, 67) ... (51, 69) is_valid: 0
+
+extract_num: 383
+(51, 84) ... (51, 86) is_valid: 1
+
+extract_num: 65
+(51, 92) ... (51, 93) is_valid: 1
+
+extract_num: 250
+(51, 95) ... (51, 97) is_valid: 1
+
+extract_num: 943
+(51, 105) ... (51, 107) is_valid: 0
+
+extract_num: 651
+(51, 120) ... (51, 122) is_valid: 1
+
+extract_num: 98
+(52, 12) ... (52, 13) is_valid: 0
+
+extract_num: 192
+(52, 30) ... (52, 32) is_valid: 0
+
+extract_num: 503
+(52, 88) ... (52, 90) is_valid: 1
+
+extract_num: 48
+(52, 110) ... (52, 111) is_valid: 1
+
+extract_num: 814
+(52, 126) ... (52, 128) is_valid: 1
+
+extract_num: 932
+(53, 15) ... (53, 17) is_valid: 1
+
+extract_num: 918
+(53, 19) ... (53, 21) is_valid: 1
+
+extract_num: 787
+(53, 36) ... (53, 38) is_valid: 1
+
+extract_num: 13
+(53, 45) ... (53, 46) is_valid: 1
+
+extract_num: 918
+(53, 49) ... (53, 51) is_valid: 1
+
+extract_num: 326
+(53, 53) ... (53, 55) is_valid: 1
+
+extract_num: 545
+(53, 62) ... (53, 64) is_valid: 0
+
+extract_num: 857
+(53, 80) ... (53, 82) is_valid: 1
+
+extract_num: 175
+(53, 97) ... (53, 99) is_valid: 1
+
+extract_num: 682
+(53, 103) ... (53, 105) is_valid: 1
+
+extract_num: 939
+(53, 113) ... (53, 115) is_valid: 1
+
+extract_num: 552
+(53, 118) ... (53, 120) is_valid: 1
+
+extract_num: 707
+(53, 122) ... (53, 124) is_valid: 1
+
+extract_num: 663
+(54, 11) ... (54, 13) is_valid: 1
+
+extract_num: 39
+(54, 66) ... (54, 67) is_valid: 1
+
+extract_num: 265
+(54, 86) ... (54, 88) is_valid: 1
+
+extract_num: 328
+(54, 108) ... (54, 110) is_valid: 1
+
+extract_num: 810
+(54, 128) ... (54, 130) is_valid: 1
+
+extract_num: 186
+(54, 137) ... (54, 139) is_valid: 1
+
+extract_num: 295
+(55, 0) ... (55, 2) is_valid: 0
+
+extract_num: 97
+(55, 7) ... (55, 8) is_valid: 1
+
+extract_num: 654
+(55, 24) ... (55, 26) is_valid: 1
+
+extract_num: 774
+(55, 29) ... (55, 31) is_valid: 1
+
+extract_num: 505
+(55, 41) ... (55, 43) is_valid: 1
+
+extract_num: 857
+(55, 54) ... (55, 56) is_valid: 1
+
+extract_num: 8
+(55, 60) ... (55, 60) is_valid: 1
+
+extract_num: 613
+(55, 69) ... (55, 71) is_valid: 1
+
+extract_num: 734
+(55, 93) ... (55, 95) is_valid: 1
+
+extract_num: 382
+(55, 104) ... (55, 106) is_valid: 1
+
+extract_num: 591
+(55, 122) ... (55, 124) is_valid: 1
+
+extract_num: 62
+(56, 18) ... (56, 19) is_valid: 0
+
+extract_num: 110
+(56, 47) ... (56, 49) is_valid: 1
+
+extract_num: 928
+(56, 73) ... (56, 75) is_valid: 1
+
+extract_num: 393
+(56, 80) ... (56, 82) is_valid: 1
+
+extract_num: 789
+(56, 84) ... (56, 86) is_valid: 1
+
+extract_num: 69
+(56, 88) ... (56, 89) is_valid: 1
+
+extract_num: 470
+(56, 99) ... (56, 101) is_valid: 1
+
+extract_num: 977
+(56, 109) ... (56, 111) is_valid: 1
+
+extract_num: 904
+(56, 113) ... (56, 115) is_valid: 1
+
+extract_num: 898
+(56, 132) ... (56, 134) is_valid: 1
+
+extract_num: 405
+(57, 8) ... (57, 10) is_valid: 1
+
+extract_num: 819
+(57, 14) ... (57, 16) is_valid: 1
+
+extract_num: 514
+(57, 26) ... (57, 28) is_valid: 1
+
+extract_num: 201
+(57, 43) ... (57, 45) is_valid: 1
+
+extract_num: 806
+(57, 56) ... (57, 58) is_valid: 1
+
+extract_num: 196
+(57, 64) ... (57, 66) is_valid: 1
+
+extract_num: 644
+(57, 128) ... (57, 130) is_valid: 0
+
+extract_num: 195
+(57, 136) ... (57, 138) is_valid: 1
+
+extract_num: 276
+(58, 39) ... (58, 41) is_valid: 1
+
+extract_num: 538
+(58, 48) ... (58, 50) is_valid: 1
+
+extract_num: 992
+(58, 52) ... (58, 54) is_valid: 1
+
+extract_num: 720
+(58, 71) ... (58, 73) is_valid: 1
+
+extract_num: 692
+(58, 75) ... (58, 77) is_valid: 1
+
+extract_num: 880
+(58, 80) ... (58, 82) is_valid: 1
+
+extract_num: 117
+(58, 92) ... (58, 94) is_valid: 1
+
+extract_num: 266
+(58, 96) ... (58, 98) is_valid: 1
+
+extract_num: 207
+(58, 101) ... (58, 103) is_valid: 1
+
+extract_num: 67
+(59, 8) ... (59, 9) is_valid: 1
+
+extract_num: 478
+(59, 14) ... (59, 16) is_valid: 1
+
+extract_num: 675
+(59, 19) ... (59, 21) is_valid: 1
+
+extract_num: 861
+(59, 23) ... (59, 25) is_valid: 1
+
+extract_num: 80
+(59, 29) ... (59, 30) is_valid: 1
+
+extract_num: 34
+(59, 33) ... (59, 34) is_valid: 1
+
+extract_num: 777
+(59, 44) ... (59, 46) is_valid: 1
+
+extract_num: 313
+(59, 65) ... (59, 67) is_valid: 1
+
+extract_num: 445
+(59, 110) ... (59, 112) is_valid: 1
+
+extract_num: 200
+(59, 122) ... (59, 124) is_valid: 1
+
+extract_num: 938
+(60, 2) ... (60, 4) is_valid: 1
+
+extract_num: 75
+(60, 11) ... (60, 12) is_valid: 1
+
+extract_num: 155
+(60, 37) ... (60, 39) is_valid: 1
+
+extract_num: 985
+(60, 73) ... (60, 75) is_valid: 1
+
+extract_num: 285
+(60, 87) ... (60, 89) is_valid: 1
+
+extract_num: 181
+(60, 95) ... (60, 97) is_valid: 1
+
+extract_num: 160
+(60, 101) ... (60, 103) is_valid: 1
+
+extract_num: 872
+(60, 127) ... (60, 129) is_valid: 1
+
+extract_num: 595
+(60, 132) ... (60, 134) is_valid: 1
+
+extract_num: 997
+(61, 7) ... (61, 9) is_valid: 1
+
+extract_num: 31
+(61, 31) ... (61, 32) is_valid: 1
+
+extract_num: 148
+(61, 46) ... (61, 48) is_valid: 1
+
+extract_num: 946
+(61, 55) ... (61, 57) is_valid: 1
+
+extract_num: 803
+(61, 69) ... (61, 71) is_valid: 1
+
+extract_num: 195
+(61, 79) ... (61, 81) is_valid: 1
+
+extract_num: 944
+(61, 91) ... (61, 93) is_valid: 1
+
+extract_num: 551
+(61, 105) ... (61, 107) is_valid: 1
+
+extract_num: 867
+(61, 121) ... (61, 123) is_valid: 0
+
+extract_num: 233
+(62, 3) ... (62, 5) is_valid: 1
+
+extract_num: 553
+(62, 16) ... (62, 18) is_valid: 0
+
+extract_num: 596
+(62, 20) ... (62, 22) is_valid: 1
+
+extract_num: 436
+(62, 34) ... (62, 36) is_valid: 1
+
+extract_num: 437
+(62, 59) ... (62, 61) is_valid: 1
+
+extract_num: 559
+(62, 64) ... (62, 66) is_valid: 1
+
+extract_num: 521
+(62, 87) ... (62, 89) is_valid: 1
+
+extract_num: 606
+(62, 98) ... (62, 100) is_valid: 1
+
+extract_num: 519
+(62, 111) ... (62, 113) is_valid: 0
+
+extract_num: 226
+(62, 115) ... (62, 117) is_valid: 1
+
+extract_num: 268
+(63, 24) ... (63, 26) is_valid: 0
+
+extract_num: 200
+(63, 39) ... (63, 41) is_valid: 1
+
+extract_num: 276
+(63, 44) ... (63, 46) is_valid: 1
+
+extract_num: 793
+(63, 71) ... (63, 73) is_valid: 1
+
+extract_num: 22
+(63, 82) ... (63, 83) is_valid: 1
+
+extract_num: 773
+(63, 92) ... (63, 94) is_valid: 1
+
+extract_num: 1
+(63, 109) ... (63, 109) is_valid: 0
+
+extract_num: 603
+(63, 127) ... (63, 129) is_valid: 1
+
+extract_num: 927
+(63, 132) ... (63, 134) is_valid: 1
+
+extract_num: 527
+(64, 2) ... (64, 4) is_valid: 1
+
+extract_num: 843
+(64, 7) ... (64, 9) is_valid: 0
+
+extract_num: 906
+(64, 13) ... (64, 15) is_valid: 1
+
+extract_num: 511
+(64, 18) ... (64, 20) is_valid: 1
+
+extract_num: 698
+(64, 35) ... (64, 37) is_valid: 1
+
+extract_num: 39
+(64, 50) ... (64, 51) is_valid: 1
+
+extract_num: 692
+(64, 58) ... (64, 60) is_valid: 1
+
+extract_num: 158
+(64, 77) ... (64, 79) is_valid: 1
+
+extract_num: 912
+(64, 87) ... (64, 89) is_valid: 1
+
+extract_num: 168
+(64, 104) ... (64, 106) is_valid: 1
+
+extract_num: 645
+(64, 119) ... (64, 121) is_valid: 1
+
+extract_num: 264
+(64, 137) ... (64, 139) is_valid: 1
+
+extract_num: 152
+(65, 24) ... (65, 26) is_valid: 1
+
+extract_num: 849
+(65, 31) ... (65, 33) is_valid: 1
+
+extract_num: 667
+(65, 39) ... (65, 41) is_valid: 1
+
+extract_num: 365
+(65, 54) ... (65, 56) is_valid: 1
+
+extract_num: 69
+(65, 68) ... (65, 69) is_valid: 1
+
+extract_num: 955
+(65, 93) ... (65, 95) is_valid: 0
+
+extract_num: 568
+(65, 131) ... (65, 133) is_valid: 1
+
+extract_num: 88
+(66, 7) ... (66, 8) is_valid: 0
+
+extract_num: 25
+(66, 18) ... (66, 19) is_valid: 1
+
+extract_num: 104
+(66, 35) ... (66, 37) is_valid: 1
+
+extract_num: 474
+(66, 59) ... (66, 61) is_valid: 1
+
+extract_num: 210
+(66, 64) ... (66, 66) is_valid: 1
+
+extract_num: 788
+(66, 71) ... (66, 73) is_valid: 1
+
+extract_num: 910
+(66, 76) ... (66, 78) is_valid: 1
+
+extract_num: 862
+(66, 80) ... (66, 82) is_valid: 1
+
+extract_num: 728
+(66, 98) ... (66, 100) is_valid: 1
+
+extract_num: 876
+(66, 111) ... (66, 113) is_valid: 1
+
+extract_num: 980
+(66, 121) ... (66, 123) is_valid: 1
+
+extract_num: 446
+(67, 0) ... (67, 2) is_valid: 1
+
+extract_num: 544
+(67, 102) ... (67, 104) is_valid: 1
+
+extract_num: 980
+(67, 125) ... (67, 127) is_valid: 1
+
+extract_num: 872
+(67, 131) ... (67, 133) is_valid: 1
+
+extract_num: 960
+(68, 13) ... (68, 15) is_valid: 1
+
+extract_num: 609
+(68, 22) ... (68, 24) is_valid: 1
+
+extract_num: 372
+(68, 28) ... (68, 30) is_valid: 1
+
+extract_num: 516
+(68, 33) ... (68, 35) is_valid: 0
+
+extract_num: 797
+(68, 40) ... (68, 42) is_valid: 1
+
+extract_num: 652
+(68, 44) ... (68, 46) is_valid: 1
+
+extract_num: 179
+(68, 50) ... (68, 52) is_valid: 1
+
+extract_num: 337
+(68, 59) ... (68, 61) is_valid: 1
+
+extract_num: 864
+(68, 72) ... (68, 74) is_valid: 1
+
+extract_num: 457
+(68, 77) ... (68, 79) is_valid: 1
+
+extract_num: 315
+(68, 82) ... (68, 84) is_valid: 1
+
+extract_num: 207
+(68, 90) ... (68, 92) is_valid: 1
+
+extract_num: 177
+(68, 107) ... (68, 109) is_valid: 1
+
+extract_num: 666
+(68, 112) ... (68, 114) is_valid: 1
+
+extract_num: 456
+(69, 1) ... (69, 3) is_valid: 1
+
+extract_num: 283
+(69, 6) ... (69, 8) is_valid: 1
+
+extract_num: 51
+(69, 55) ... (69, 56) is_valid: 1
+
+extract_num: 798
+(69, 68) ... (69, 70) is_valid: 1
+
+extract_num: 796
+(69, 120) ... (69, 122) is_valid: 1
+
+extract_num: 880
+(69, 124) ... (69, 126) is_valid: 1
+
+extract_num: 341
+(70, 26) ... (70, 28) is_valid: 1
+
+extract_num: 320
+(70, 40) ... (70, 42) is_valid: 0
+
+extract_num: 410
+(70, 48) ... (70, 50) is_valid: 1
+
+extract_num: 767
+(70, 61) ... (70, 63) is_valid: 1
+
+extract_num: 81
+(70, 74) ... (70, 75) is_valid: 1
+
+extract_num: 953
+(70, 78) ... (70, 80) is_valid: 1
+
+extract_num: 51
+(70, 96) ... (70, 97) is_valid: 1
+
+extract_num: 8
+(70, 105) ... (70, 105) is_valid: 1
+
+extract_num: 704
+(71, 5) ... (71, 7) is_valid: 1
+
+extract_num: 48
+(71, 10) ... (71, 11) is_valid: 1
+
+extract_num: 407
+(71, 13) ... (71, 15) is_valid: 1
+
+extract_num: 864
+(71, 19) ... (71, 21) is_valid: 1
+
+extract_num: 718
+(71, 31) ... (71, 33) is_valid: 0
+
+extract_num: 606
+(71, 44) ... (71, 46) is_valid: 1
+
+extract_num: 375
+(71, 54) ... (71, 56) is_valid: 1
+
+extract_num: 818
+(71, 83) ... (71, 85) is_valid: 1
+
+extract_num: 621
+(71, 91) ... (71, 93) is_valid: 1
+
+extract_num: 769
+(71, 101) ... (71, 103) is_valid: 1
+
+extract_num: 522
+(71, 110) ... (71, 112) is_valid: 1
+
+extract_num: 375
+(71, 114) ... (71, 116) is_valid: 0
+
+extract_num: 585
+(71, 120) ... (71, 122) is_valid: 1
+
+extract_num: 389
+(71, 137) ... (71, 139) is_valid: 0
+
+extract_num: 746
+(72, 1) ... (72, 3) is_valid: 0
+
+extract_num: 225
+(72, 65) ... (72, 67) is_valid: 1
+
+extract_num: 887
+(72, 87) ... (72, 89) is_valid: 1
+
+extract_num: 67
+(73, 10) ... (73, 11) is_valid: 1
+
+extract_num: 429
+(73, 26) ... (73, 28) is_valid: 1
+
+extract_num: 569
+(73, 40) ... (73, 42) is_valid: 1
+
+extract_num: 355
+(73, 47) ... (73, 49) is_valid: 1
+
+extract_num: 58
+(73, 52) ... (73, 53) is_valid: 1
+
+extract_num: 550
+(73, 56) ... (73, 58) is_valid: 1
+
+extract_num: 299
+(73, 60) ... (73, 62) is_valid: 1
+
+extract_num: 676
+(73, 69) ... (73, 71) is_valid: 1
+
+extract_num: 904
+(73, 73) ... (73, 75) is_valid: 1
+
+extract_num: 29
+(73, 83) ... (73, 84) is_valid: 1
+
+extract_num: 787
+(73, 93) ... (73, 95) is_valid: 1
+
+extract_num: 817
+(73, 97) ... (73, 99) is_valid: 0
+
+extract_num: 940
+(73, 115) ... (73, 117) is_valid: 1
+
+extract_num: 537
+(73, 126) ... (73, 128) is_valid: 0
+
+extract_num: 894
+(74, 5) ... (74, 7) is_valid: 1
+
+extract_num: 564
+(74, 22) ... (74, 24) is_valid: 1
+
+extract_num: 52
+(74, 35) ... (74, 36) is_valid: 1
+
+extract_num: 69
+(74, 65) ... (74, 66) is_valid: 1
+
+extract_num: 773
+(74, 79) ... (74, 81) is_valid: 1
+
+extract_num: 398
+(74, 101) ... (74, 103) is_valid: 1
+
+extract_num: 283
+(74, 110) ... (74, 112) is_valid: 1
+
+extract_num: 283
+(74, 121) ... (74, 123) is_valid: 0
+
+extract_num: 105
+(74, 132) ... (74, 134) is_valid: 1
+
+extract_num: 672
+(75, 26) ... (75, 28) is_valid: 1
+
+extract_num: 996
+(75, 41) ... (75, 43) is_valid: 0
+
+extract_num: 171
+(75, 49) ... (75, 51) is_valid: 1
+
+extract_num: 567
+(75, 55) ... (75, 57) is_valid: 1
+
+extract_num: 902
+(75, 61) ... (75, 63) is_valid: 1
+
+extract_num: 290
+(75, 68) ... (75, 70) is_valid: 1
+
+extract_num: 324
+(75, 75) ... (75, 77) is_valid: 0
+
+extract_num: 844
+(75, 95) ... (75, 97) is_valid: 0
+
+extract_num: 935
+(76, 3) ... (76, 5) is_valid: 1
+
+extract_num: 128
+(76, 9) ... (76, 11) is_valid: 1
+
+extract_num: 892
+(76, 21) ... (76, 23) is_valid: 1
+
+extract_num: 497
+(76, 33) ... (76, 35) is_valid: 1
+
+extract_num: 170
+(76, 83) ... (76, 85) is_valid: 1
+
+extract_num: 789
+(76, 102) ... (76, 104) is_valid: 1
+
+extract_num: 620
+(76, 116) ... (76, 118) is_valid: 1
+
+extract_num: 484
+(76, 130) ... (76, 132) is_valid: 1
+
+extract_num: 495
+(77, 13) ... (77, 15) is_valid: 1
+
+extract_num: 612
+(77, 26) ... (77, 28) is_valid: 1
+
+extract_num: 251
+(77, 47) ... (77, 49) is_valid: 1
+
+extract_num: 811
+(77, 58) ... (77, 60) is_valid: 1
+
+extract_num: 660
+(77, 74) ... (77, 76) is_valid: 1
+
+extract_num: 669
+(77, 92) ... (77, 94) is_valid: 1
+
+extract_num: 840
+(77, 108) ... (77, 110) is_valid: 1
+
+extract_num: 413
+(77, 112) ... (77, 114) is_valid: 0
+
+extract_num: 506
+(78, 2) ... (78, 4) is_valid: 1
+
+extract_num: 147
+(78, 51) ... (78, 53) is_valid: 1
+
+extract_num: 44
+(78, 55) ... (78, 56) is_valid: 1
+
+extract_num: 177
+(78, 82) ... (78, 84) is_valid: 1
+
+extract_num: 539
+(78, 99) ... (78, 101) is_valid: 1
+
+extract_num: 384
+(78, 117) ... (78, 119) is_valid: 1
+
+extract_num: 743
+(78, 126) ... (78, 128) is_valid: 1
+
+extract_num: 24
+(78, 136) ... (78, 137) is_valid: 1
+
+extract_num: 818
+(79, 17) ... (79, 19) is_valid: 1
+
+extract_num: 505
+(79, 21) ... (79, 23) is_valid: 1
+
+extract_num: 962
+(79, 30) ... (79, 32) is_valid: 1
+
+extract_num: 777
+(79, 37) ... (79, 39) is_valid: 1
+
+extract_num: 180
+(79, 44) ... (79, 46) is_valid: 1
+
+extract_num: 330
+(79, 60) ... (79, 62) is_valid: 1
+
+extract_num: 895
+(79, 94) ... (79, 96) is_valid: 1
+
+extract_num: 989
+(79, 112) ... (79, 114) is_valid: 1
+
+extract_num: 13
+(79, 130) ... (79, 131) is_valid: 1
+
+extract_num: 749
+(80, 25) ... (80, 27) is_valid: 1
+
+extract_num: 225
+(80, 54) ... (80, 56) is_valid: 1
+
+extract_num: 136
+(80, 79) ... (80, 81) is_valid: 1
+
+extract_num: 295
+(80, 85) ... (80, 87) is_valid: 1
+
+extract_num: 433
+(80, 89) ... (80, 91) is_valid: 1
+
+extract_num: 612
+(80, 100) ... (80, 102) is_valid: 1
+
+extract_num: 386
+(80, 106) ... (80, 108) is_valid: 1
+
+extract_num: 907
+(80, 125) ... (80, 127) is_valid: 1
+
+extract_num: 108
+(81, 4) ... (81, 6) is_valid: 0
+
+extract_num: 911
+(81, 9) ... (81, 11) is_valid: 1
+
+extract_num: 230
+(81, 19) ... (81, 21) is_valid: 1
+
+extract_num: 449
+(81, 30) ... (81, 32) is_valid: 1
+
+extract_num: 499
+(81, 34) ... (81, 36) is_valid: 1
+
+extract_num: 875
+(81, 48) ... (81, 50) is_valid: 1
+
+extract_num: 211
+(81, 65) ... (81, 67) is_valid: 1
+
+extract_num: 851
+(81, 71) ... (81, 73) is_valid: 1
+
+extract_num: 742
+(81, 75) ... (81, 77) is_valid: 0
+
+extract_num: 266
+(81, 95) ... (81, 97) is_valid: 1
+
+extract_num: 293
+(81, 116) ... (81, 118) is_valid: 1
+
+extract_num: 854
+(81, 130) ... (81, 132) is_valid: 1
+
+extract_num: 548
+(81, 134) ... (81, 136) is_valid: 1
+
+extract_num: 61
+(82, 26) ... (82, 27) is_valid: 1
+
+extract_num: 989
+(82, 61) ... (82, 63) is_valid: 1
+
+extract_num: 916
+(82, 87) ... (82, 89) is_valid: 1
+
+extract_num: 403
+(82, 91) ... (82, 93) is_valid: 1
+
+extract_num: 690
+(83, 2) ... (83, 4) is_valid: 0
+
+extract_num: 553
+(83, 19) ... (83, 21) is_valid: 1
+
+extract_num: 202
+(83, 32) ... (83, 34) is_valid: 1
+
+extract_num: 312
+(83, 39) ... (83, 41) is_valid: 1
+
+extract_num: 753
+(83, 56) ... (83, 58) is_valid: 1
+
+extract_num: 372
+(83, 65) ... (83, 67) is_valid: 1
+
+extract_num: 268
+(83, 79) ... (83, 81) is_valid: 1
+
+extract_num: 973
+(83, 102) ... (83, 104) is_valid: 0
+
+extract_num: 881
+(83, 110) ... (83, 112) is_valid: 1
+
+extract_num: 558
+(83, 116) ... (83, 118) is_valid: 1
+
+extract_num: 58
+(83, 129) ... (83, 130) is_valid: 1
+
+extract_num: 321
+(83, 133) ... (83, 135) is_valid: 1
+
+extract_num: 997
+(84, 14) ... (84, 16) is_valid: 1
+
+extract_num: 452
+(84, 25) ... (84, 27) is_valid: 1
+
+extract_num: 629
+(84, 60) ... (84, 62) is_valid: 1
+
+extract_num: 495
+(84, 106) ... (84, 108) is_valid: 1
+
+extract_num: 142
+(85, 2) ... (85, 4) is_valid: 0
+
+extract_num: 55
+(85, 7) ... (85, 8) is_valid: 1
+
+extract_num: 98
+(85, 11) ... (85, 12) is_valid: 1
+
+extract_num: 80
+(85, 45) ... (85, 46) is_valid: 1
+
+extract_num: 528
+(85, 54) ... (85, 56) is_valid: 1
+
+extract_num: 532
+(85, 76) ... (85, 78) is_valid: 1
+
+extract_num: 69
+(85, 84) ... (85, 85) is_valid: 1
+
+extract_num: 691
+(85, 95) ... (85, 97) is_valid: 1
+
+extract_num: 186
+(85, 110) ... (85, 112) is_valid: 1
+
+extract_num: 388
+(85, 115) ... (85, 117) is_valid: 1
+
+extract_num: 342
+(85, 119) ... (85, 121) is_valid: 1
+
+extract_num: 163
+(85, 134) ... (85, 136) is_valid: 1
+
+extract_num: 280
+(86, 16) ... (86, 18) is_valid: 1
+
+extract_num: 350
+(86, 34) ... (86, 36) is_valid: 1
+
+extract_num: 818
+(86, 50) ... (86, 52) is_valid: 1
+
+extract_num: 142
+(86, 101) ... (86, 103) is_valid: 1
+
+extract_num: 248
+(86, 124) ... (86, 126) is_valid: 1
+
+extract_num: 896
+(87, 2) ... (87, 4) is_valid: 1
+
+extract_num: 893
+(87, 20) ... (87, 22) is_valid: 1
+
+extract_num: 350
+(87, 29) ... (87, 31) is_valid: 1
+
+extract_num: 918
+(87, 46) ... (87, 48) is_valid: 1
+
+extract_num: 158
+(87, 58) ... (87, 60) is_valid: 1
+
+extract_num: 574
+(87, 70) ... (87, 72) is_valid: 1
+
+extract_num: 444
+(87, 76) ... (87, 78) is_valid: 1
+
+extract_num: 297
+(87, 85) ... (87, 87) is_valid: 1
+
+extract_num: 656
+(87, 89) ... (87, 91) is_valid: 1
+
+extract_num: 369
+(87, 130) ... (87, 132) is_valid: 1
+
+extract_num: 191
+(88, 9) ... (88, 11) is_valid: 1
+
+extract_num: 264
+(88, 15) ... (88, 17) is_valid: 1
+
+extract_num: 566
+(88, 36) ... (88, 38) is_valid: 1
+
+extract_num: 824
+(88, 40) ... (88, 42) is_valid: 1
+
+extract_num: 621
+(88, 50) ... (88, 52) is_valid: 1
+
+extract_num: 532
+(88, 64) ... (88, 66) is_valid: 1
+
+extract_num: 904
+(88, 81) ... (88, 83) is_valid: 1
+
+extract_num: 134
+(88, 98) ... (88, 100) is_valid: 1
+
+extract_num: 139
+(88, 104) ... (88, 106) is_valid: 1
+
+extract_num: 420
+(88, 109) ... (88, 111) is_valid: 1
+
+extract_num: 811
+(88, 115) ... (88, 117) is_valid: 1
+
+extract_num: 444
+(88, 122) ... (88, 124) is_valid: 1
+
+extract_num: 160
+(88, 126) ... (88, 128) is_valid: 1
+
+extract_num: 112
+(89, 4) ... (89, 6) is_valid: 1
+
+extract_num: 663
+(89, 25) ... (89, 27) is_valid: 1
+
+extract_num: 987
+(89, 44) ... (89, 46) is_valid: 1
+
+extract_num: 896
+(89, 73) ... (89, 75) is_valid: 1
+
+extract_num: 996
+(89, 92) ... (89, 94) is_valid: 1
+
+extract_num: 236
+(89, 133) ... (89, 135) is_valid: 1
+
+extract_num: 434
+(90, 30) ... (90, 32) is_valid: 1
+
+extract_num: 57
+(90, 35) ... (90, 36) is_valid: 1
+
+extract_num: 79
+(90, 40) ... (90, 41) is_valid: 1
+
+extract_num: 904
+(90, 51) ... (90, 53) is_valid: 1
+
+extract_num: 740
+(90, 62) ... (90, 64) is_valid: 1
+
+extract_num: 72
+(90, 103) ... (90, 104) is_valid: 1
+
+extract_num: 447
+(90, 109) ... (90, 111) is_valid: 1
+
+extract_num: 474
+(91, 13) ... (91, 15) is_valid: 0
+
+extract_num: 480
+(91, 19) ... (91, 21) is_valid: 0
+
+extract_num: 307
+(91, 58) ... (91, 60) is_valid: 1
+
+extract_num: 447
+(91, 67) ... (91, 69) is_valid: 1
+
+extract_num: 612
+(91, 72) ... (91, 74) is_valid: 1
+
+extract_num: 490
+(91, 80) ... (91, 82) is_valid: 1
+
+extract_num: 325
+(91, 89) ... (91, 91) is_valid: 0
+
+extract_num: 715
+(91, 99) ... (91, 101) is_valid: 0
+
+extract_num: 853
+(91, 115) ... (91, 117) is_valid: 1
+
+extract_num: 859
+(91, 121) ... (91, 123) is_valid: 0
+
+extract_num: 424
+(92, 2) ... (92, 4) is_valid: 1
+
+extract_num: 624
+(92, 27) ... (92, 29) is_valid: 1
+
+extract_num: 176
+(92, 49) ... (92, 51) is_valid: 1
+
+extract_num: 714
+(92, 63) ... (92, 65) is_valid: 1
+
+extract_num: 184
+(92, 94) ... (92, 96) is_valid: 1
+
+extract_num: 874
+(92, 111) ... (92, 113) is_valid: 1
+
+extract_num: 687
+(92, 135) ... (92, 137) is_valid: 0
+
+extract_num: 81
+(93, 8) ... (93, 9) is_valid: 1
+
+extract_num: 944
+(93, 11) ... (93, 13) is_valid: 1
+
+extract_num: 748
+(93, 16) ... (93, 18) is_valid: 1
+
+extract_num: 343
+(93, 35) ... (93, 37) is_valid: 1
+
+extract_num: 643
+(93, 39) ... (93, 41) is_valid: 1
+
+extract_num: 735
+(93, 82) ... (93, 84) is_valid: 1
+
+extract_num: 748
+(93, 119) ... (93, 121) is_valid: 1
+
+extract_num: 743
+(93, 130) ... (93, 132) is_valid: 1
+
+extract_num: 261
+(94, 0) ... (94, 2) is_valid: 1
+
+extract_num: 574
+(94, 30) ... (94, 32) is_valid: 1
+
+extract_num: 119
+(94, 47) ... (94, 49) is_valid: 1
+
+extract_num: 650
+(94, 56) ... (94, 58) is_valid: 1
+
+extract_num: 298
+(94, 75) ... (94, 77) is_valid: 1
+
+extract_num: 43
+(94, 79) ... (94, 80) is_valid: 1
+
+extract_num: 954
+(94, 89) ... (94, 91) is_valid: 1
+
+extract_num: 202
+(94, 95) ... (94, 97) is_valid: 1
+
+extract_num: 314
+(94, 101) ... (94, 103) is_valid: 1
+
+extract_num: 589
+(94, 125) ... (94, 127) is_valid: 0
+
+extract_num: 773
+(95, 15) ... (95, 17) is_valid: 1
+
+extract_num: 729
+(95, 22) ... (95, 24) is_valid: 1
+
+extract_num: 361
+(95, 34) ... (95, 36) is_valid: 1
+
+extract_num: 884
+(95, 38) ... (95, 40) is_valid: 1
+
+extract_num: 743
+(95, 65) ... (95, 67) is_valid: 1
+
+extract_num: 885
+(95, 82) ... (95, 84) is_valid: 1
+
+extract_num: 746
+(95, 114) ... (95, 116) is_valid: 1
+
+extract_num: 262
+(95, 135) ... (95, 137) is_valid: 1
+
+extract_num: 330
+(96, 5) ... (96, 7) is_valid: 1
+
+extract_num: 44
+(96, 12) ... (96, 13) is_valid: 1
+
+extract_num: 349
+(96, 27) ... (96, 29) is_valid: 1
+
+extract_num: 140
+(96, 44) ... (96, 46) is_valid: 1
+
+extract_num: 875
+(96, 48) ... (96, 50) is_valid: 1
+
+extract_num: 787
+(96, 89) ... (96, 91) is_valid: 1
+
+extract_num: 582
+(96, 96) ... (96, 98) is_valid: 0
+
+extract_num: 257
+(96, 102) ... (96, 104) is_valid: 1
+
+extract_num: 401
+(96, 106) ... (96, 108) is_valid: 1
+
+extract_num: 219
+(96, 125) ... (96, 127) is_valid: 1
+
+extract_num: 499
+(97, 0) ... (97, 2) is_valid: 1
+
+extract_num: 977
+(97, 18) ... (97, 20) is_valid: 1
+
+extract_num: 629
+(97, 31) ... (97, 33) is_valid: 1
+
+extract_num: 130
+(97, 36) ... (97, 38) is_valid: 1
+
+extract_num: 691
+(97, 40) ... (97, 42) is_valid: 1
+
+extract_num: 629
+(97, 54) ... (97, 56) is_valid: 0
+
+extract_num: 392
+(97, 62) ... (97, 64) is_valid: 1
+
+extract_num: 23
+(97, 81) ... (97, 82) is_valid: 1
+
+extract_num: 113
+(97, 133) ... (97, 135) is_valid: 1
+
+extract_num: 929
+(98, 4) ... (98, 6) is_valid: 1
+
+extract_num: 383
+(98, 8) ... (98, 10) is_valid: 1
+
+extract_num: 616
+(98, 13) ... (98, 15) is_valid: 1
+
+extract_num: 910
+(98, 67) ... (98, 69) is_valid: 1
+
+extract_num: 820
+(98, 75) ... (98, 77) is_valid: 1
+
+extract_num: 926
+(98, 119) ... (98, 121) is_valid: 1
+
+extract_num: 54
+(98, 124) ... (98, 125) is_valid: 1
+
+extract_num: 80
+(98, 129) ... (98, 130) is_valid: 1
+
+extract_num: 60
+(99, 18) ... (99, 19) is_valid: 1
+
+extract_num: 755
+(99, 25) ... (99, 27) is_valid: 1
+
+extract_num: 105
+(99, 44) ... (99, 46) is_valid: 1
+
+extract_num: 521
+(99, 57) ... (99, 59) is_valid: 1
+
+extract_num: 254
+(99, 63) ... (99, 65) is_valid: 1
+
+extract_num: 667
+(99, 80) ... (99, 82) is_valid: 1
+
+extract_num: 956
+(99, 90) ... (99, 92) is_valid: 0
+
+extract_num: 232
+(99, 132) ... (99, 134) is_valid: 1
+
+extract_num: 667
+(100, 9) ... (100, 11) is_valid: 1
+
+extract_num: 795
+(100, 14) ... (100, 16) is_valid: 1
+
+extract_num: 292
+(100, 21) ... (100, 23) is_valid: 1
+
+extract_num: 299
+(100, 39) ... (100, 41) is_valid: 1
+
+extract_num: 560
+(100, 74) ... (100, 76) is_valid: 1
+
+extract_num: 750
+(100, 97) ... (100, 99) is_valid: 1
+
+extract_num: 107
+(100, 109) ... (100, 111) is_valid: 1
+
+extract_num: 157
+(100, 115) ... (100, 117) is_valid: 1
+
+extract_num: 200
+(101, 27) ... (101, 29) is_valid: 1
+
+extract_num: 619
+(101, 33) ... (101, 35) is_valid: 1
+
+extract_num: 225
+(101, 43) ... (101, 45) is_valid: 1
+
+extract_num: 986
+(101, 50) ... (101, 52) is_valid: 1
+
+extract_num: 67
+(101, 54) ... (101, 55) is_valid: 1
+
+extract_num: 386
+(101, 80) ... (101, 82) is_valid: 1
+
+extract_num: 62
+(101, 103) ... (101, 104) is_valid: 1
+
+extract_num: 827
+(101, 131) ... (101, 133) is_valid: 1
+
+extract_num: 242
+(101, 135) ... (101, 137) is_valid: 1
+
+extract_num: 134
+(102, 9) ... (102, 11) is_valid: 0
+
+extract_num: 528
+(102, 14) ... (102, 16) is_valid: 1
+
+extract_num: 416
+(102, 22) ... (102, 24) is_valid: 1
+
+extract_num: 18
+(102, 66) ... (102, 67) is_valid: 1
+
+extract_num: 489
+(102, 87) ... (102, 89) is_valid: 1
+
+extract_num: 396
+(102, 91) ... (102, 93) is_valid: 1
+
+extract_num: 384
+(102, 96) ... (102, 98) is_valid: 1
+
+extract_num: 735
+(102, 106) ... (102, 108) is_valid: 1
+
+extract_num: 424
+(102, 110) ... (102, 112) is_valid: 1
+
+extract_num: 528
+(102, 118) ... (102, 120) is_valid: 0
+
+extract_num: 326
+(103, 5) ... (103, 7) is_valid: 0
+
+extract_num: 98
+(103, 19) ... (103, 20) is_valid: 1
+
+extract_num: 306
+(103, 30) ... (103, 32) is_valid: 1
+
+extract_num: 147
+(103, 44) ... (103, 46) is_valid: 1
+
+extract_num: 391
+(103, 74) ... (103, 76) is_valid: 1
+
+extract_num: 210
+(103, 82) ... (103, 84) is_valid: 1
+
+extract_num: 754
+(103, 114) ... (103, 116) is_valid: 1
+
+extract_num: 884
+(104, 11) ... (104, 13) is_valid: 1
+
+extract_num: 313
+(104, 15) ... (104, 17) is_valid: 1
+
+extract_num: 378
+(104, 34) ... (104, 36) is_valid: 1
+
+extract_num: 498
+(104, 39) ... (104, 41) is_valid: 1
+
+extract_num: 844
+(104, 53) ... (104, 55) is_valid: 1
+
+extract_num: 738
+(104, 60) ... (104, 62) is_valid: 1
+
+extract_num: 926
+(104, 70) ... (104, 72) is_valid: 1
+
+extract_num: 809
+(104, 86) ... (104, 88) is_valid: 0
+
+extract_num: 562
+(104, 95) ... (104, 97) is_valid: 1
+
+extract_num: 108
+(104, 101) ... (104, 103) is_valid: 1
+
+extract_num: 391
+(104, 105) ... (104, 107) is_valid: 1
+
+extract_num: 567
+(104, 118) ... (104, 120) is_valid: 1
+
+extract_num: 748
+(104, 124) ... (104, 126) is_valid: 0
+
+extract_num: 857
+(105, 5) ... (105, 7) is_valid: 1
+
+extract_num: 758
+(105, 21) ... (105, 23) is_valid: 1
+
+extract_num: 738
+(105, 75) ... (105, 77) is_valid: 1
+
+extract_num: 198
+(105, 82) ... (105, 84) is_valid: 1
+
+extract_num: 190
+(105, 111) ... (105, 113) is_valid: 1
+
+extract_num: 470
+(105, 132) ... (105, 134) is_valid: 1
+
+extract_num: 586
+(106, 11) ... (106, 13) is_valid: 1
+
+extract_num: 855
+(106, 16) ... (106, 18) is_valid: 1
+
+extract_num: 77
+(106, 29) ... (106, 30) is_valid: 1
+
+extract_num: 412
+(106, 32) ... (106, 34) is_valid: 1
+
+extract_num: 13
+(106, 36) ... (106, 37) is_valid: 1
+
+extract_num: 113
+(106, 42) ... (106, 44) is_valid: 1
+
+extract_num: 413
+(106, 47) ... (106, 49) is_valid: 1
+
+extract_num: 810
+(106, 52) ... (106, 54) is_valid: 1
+
+extract_num: 513
+(106, 62) ... (106, 64) is_valid: 1
+
+extract_num: 266
+(106, 67) ... (106, 69) is_valid: 1
+
+extract_num: 556
+(106, 88) ... (106, 90) is_valid: 1
+
+extract_num: 650
+(106, 92) ... (106, 94) is_valid: 1
+
+extract_num: 487
+(107, 3) ... (107, 5) is_valid: 1
+
+extract_num: 434
+(107, 25) ... (107, 27) is_valid: 1
+
+extract_num: 631
+(107, 74) ... (107, 76) is_valid: 1
+
+extract_num: 434
+(107, 118) ... (107, 120) is_valid: 1
+
+extract_num: 660
+(108, 31) ... (108, 33) is_valid: 1
+
+extract_num: 848
+(108, 40) ... (108, 42) is_valid: 1
+
+extract_num: 316
+(108, 95) ... (108, 97) is_valid: 1
+
+extract_num: 105
+(108, 102) ... (108, 104) is_valid: 1
+
+extract_num: 679
+(108, 108) ... (108, 110) is_valid: 1
+
+extract_num: 289
+(108, 123) ... (108, 125) is_valid: 1
+
+extract_num: 700
+(108, 128) ... (108, 130) is_valid: 1
+
+extract_num: 62
+(109, 1) ... (109, 2) is_valid: 1
+
+extract_num: 523
+(109, 4) ... (109, 6) is_valid: 1
+
+extract_num: 433
+(109, 45) ... (109, 47) is_valid: 1
+
+extract_num: 328
+(109, 51) ... (109, 53) is_valid: 1
+
+extract_num: 474
+(109, 71) ... (109, 73) is_valid: 1
+
+extract_num: 194
+(109, 78) ... (109, 80) is_valid: 1
+
+extract_num: 868
+(109, 84) ... (109, 86) is_valid: 1
+
+extract_num: 753
+(109, 116) ... (109, 118) is_valid: 1
+
+extract_num: 31
+(110, 16) ... (110, 17) is_valid: 1
+
+extract_num: 116
+(110, 26) ... (110, 28) is_valid: 1
+
+extract_num: 897
+(110, 40) ... (110, 42) is_valid: 1
+
+extract_num: 406
+(110, 62) ... (110, 64) is_valid: 1
+
+extract_num: 33
+(110, 103) ... (110, 104) is_valid: 1
+
+extract_num: 453
+(110, 110) ... (110, 112) is_valid: 1
+
+extract_num: 636
+(110, 120) ... (110, 122) is_valid: 1
+
+extract_num: 580
+(110, 125) ... (110, 127) is_valid: 1
+
+extract_num: 649
+(110, 129) ... (110, 131) is_valid: 1
+
+extract_num: 520
+(110, 134) ... (110, 136) is_valid: 1
+
+extract_num: 66
+(111, 3) ... (111, 4) is_valid: 1
+
+extract_num: 732
+(111, 31) ... (111, 33) is_valid: 0
+
+extract_num: 71
+(111, 52) ... (111, 53) is_valid: 0
+
+extract_num: 857
+(111, 57) ... (111, 59) is_valid: 0
+
+extract_num: 645
+(111, 68) ... (111, 70) is_valid: 1
+
+extract_num: 71
+(111, 98) ... (111, 99) is_valid: 1
+
+extract_num: 450
+(111, 115) ... (111, 117) is_valid: 1
+
+extract_num: 815
+(112, 6) ... (112, 8) is_valid: 1
+
+extract_num: 387
+(112, 12) ... (112, 14) is_valid: 1
+
+extract_num: 677
+(112, 21) ... (112, 23) is_valid: 1
+
+extract_num: 395
+(112, 36) ... (112, 38) is_valid: 1
+
+extract_num: 365
+(112, 44) ... (112, 46) is_valid: 0
+
+extract_num: 928
+(112, 48) ... (112, 50) is_valid: 0
+
+extract_num: 300
+(112, 72) ... (112, 74) is_valid: 1
+
+extract_num: 633
+(112, 84) ... (112, 86) is_valid: 1
+
+extract_num: 347
+(112, 91) ... (112, 93) is_valid: 1
+
+extract_num: 791
+(112, 101) ... (112, 103) is_valid: 1
+
+extract_num: 37
+(112, 106) ... (112, 107) is_valid: 1
+
+extract_num: 898
+(113, 16) ... (113, 18) is_valid: 0
+
+extract_num: 823
+(113, 28) ... (113, 30) is_valid: 0
+
+extract_num: 621
+(113, 80) ... (113, 82) is_valid: 1
+
+extract_num: 764
+(113, 96) ... (113, 98) is_valid: 1
+
+extract_num: 285
+(113, 109) ... (113, 111) is_valid: 1
+
+extract_num: 743
+(113, 120) ... (113, 122) is_valid: 1
+
+extract_num: 645
+(113, 132) ... (113, 134) is_valid: 1
+
+extract_num: 946
+(114, 20) ... (114, 22) is_valid: 1
+
+extract_num: 563
+(114, 55) ... (114, 57) is_valid: 1
+
+extract_num: 848
+(114, 85) ... (114, 87) is_valid: 1
+
+extract_num: 716
+(114, 100) ... (114, 102) is_valid: 1
+
+extract_num: 8
+(114, 130) ... (114, 130) is_valid: 1
+
+extract_num: 770
+(115, 5) ... (115, 7) is_valid: 1
+
+extract_num: 281
+(115, 11) ... (115, 13) is_valid: 1
+
+extract_num: 710
+(115, 15) ... (115, 17) is_valid: 1
+
+extract_num: 756
+(115, 24) ... (115, 26) is_valid: 0
+
+extract_num: 305
+(115, 29) ... (115, 31) is_valid: 1
+
+extract_num: 709
+(115, 40) ... (115, 42) is_valid: 1
+
+extract_num: 245
+(115, 72) ... (115, 74) is_valid: 1
+
+extract_num: 572
+(115, 79) ... (115, 81) is_valid: 1
+
+extract_num: 788
+(115, 93) ... (115, 95) is_valid: 1
+
+extract_num: 112
+(115, 110) ... (115, 112) is_valid: 1
+
+extract_num: 994
+(115, 117) ... (115, 119) is_valid: 1
+
+extract_num: 522
+(115, 121) ... (115, 123) is_valid: 1
+
+extract_num: 648
+(116, 36) ... (116, 38) is_valid: 1
+
+extract_num: 351
+(116, 44) ... (116, 46) is_valid: 1
+
+extract_num: 679
+(116, 51) ... (116, 53) is_valid: 1
+
+extract_num: 624
+(116, 64) ... (116, 66) is_valid: 1
+
+extract_num: 546
+(117, 2) ... (117, 4) is_valid: 1
+
+extract_num: 333
+(117, 28) ... (117, 30) is_valid: 1
+
+extract_num: 778
+(117, 71) ... (117, 73) is_valid: 1
+
+extract_num: 546
+(117, 75) ... (117, 77) is_valid: 1
+
+extract_num: 957
+(117, 104) ... (117, 106) is_valid: 1
+
+extract_num: 522
+(117, 118) ... (117, 120) is_valid: 1
+
+extract_num: 734
+(117, 127) ... (117, 129) is_valid: 1
+
+extract_num: 270
+(118, 6) ... (118, 8) is_valid: 1
+
+extract_num: 959
+(118, 12) ... (118, 14) is_valid: 1
+
+extract_num: 108
+(118, 18) ... (118, 20) is_valid: 1
+
+extract_num: 569
+(118, 23) ... (118, 25) is_valid: 1
+
+extract_num: 616
+(118, 41) ... (118, 43) is_valid: 1
+
+extract_num: 417
+(118, 53) ... (118, 55) is_valid: 1
+
+extract_num: 246
+(118, 57) ... (118, 59) is_valid: 1
+
+extract_num: 25
+(118, 67) ... (118, 68) is_valid: 1
+
+extract_num: 237
+(118, 79) ... (118, 81) is_valid: 1
+
+extract_num: 909
+(118, 86) ... (118, 88) is_valid: 1
+
+extract_num: 10
+(118, 98) ... (118, 99) is_valid: 1
+
+extract_num: 607
+(118, 114) ... (118, 116) is_valid: 1
+
+extract_num: 711
+(118, 131) ... (118, 133) is_valid: 0
+
+extract_num: 244
+(119, 33) ... (119, 35) is_valid: 1
+
+extract_num: 301
+(119, 37) ... (119, 39) is_valid: 1
+
+extract_num: 713
+(119, 118) ... (119, 120) is_valid: 0
+
+extract_num: 59
+(119, 122) ... (119, 123) is_valid: 1
+
+extract_num: 114
+(120, 1) ... (120, 3) is_valid: 1
+
+extract_num: 717
+(120, 6) ... (120, 8) is_valid: 1
+
+extract_num: 807
+(120, 20) ... (120, 22) is_valid: 1
+
+extract_num: 501
+(120, 28) ... (120, 30) is_valid: 1
+
+extract_num: 63
+(120, 59) ... (120, 60) is_valid: 1
+
+extract_num: 369
+(120, 63) ... (120, 65) is_valid: 1
+
+extract_num: 986
+(120, 68) ... (120, 70) is_valid: 1
+
+extract_num: 137
+(120, 73) ... (120, 75) is_valid: 1
+
+extract_num: 831
+(120, 79) ... (120, 81) is_valid: 1
+
+extract_num: 584
+(120, 88) ... (120, 90) is_valid: 1
+
+extract_num: 350
+(120, 95) ... (120, 97) is_valid: 1
+
+extract_num: 61
+(120, 109) ... (120, 110) is_valid: 1
+
+extract_num: 923
+(120, 113) ... (120, 115) is_valid: 1
+
+extract_num: 82
+(120, 127) ... (120, 128) is_valid: 1
+
+extract_num: 479
+(121, 38) ... (121, 40) is_valid: 1
+
+extract_num: 141
+(121, 55) ... (121, 57) is_valid: 1
+
+extract_num: 419
+(121, 105) ... (121, 107) is_valid: 1
+
+extract_num: 607
+(122, 9) ... (122, 11) is_valid: 1
+
+extract_num: 609
+(122, 15) ... (122, 17) is_valid: 1
+
+extract_num: 952
+(122, 23) ... (122, 25) is_valid: 1
+
+extract_num: 287
+(122, 51) ... (122, 53) is_valid: 1
+
+extract_num: 730
+(122, 73) ... (122, 75) is_valid: 1
+
+extract_num: 945
+(122, 78) ... (122, 80) is_valid: 1
+
+extract_num: 986
+(122, 91) ... (122, 93) is_valid: 0
+
+extract_num: 876
+(122, 125) ... (122, 127) is_valid: 1
+
+extract_num: 806
+(122, 132) ... (122, 134) is_valid: 0
+
+extract_num: 102
+(123, 19) ... (123, 21) is_valid: 1
+
+extract_num: 97
+(123, 60) ... (123, 61) is_valid: 1
+
+extract_num: 608
+(123, 65) ... (123, 67) is_valid: 1
+
+extract_num: 541
+(123, 82) ... (123, 84) is_valid: 1
+
+extract_num: 221
+(123, 87) ... (123, 89) is_valid: 1
+
+extract_num: 592
+(123, 99) ... (123, 101) is_valid: 0
+
+extract_num: 165
+(123, 103) ... (123, 105) is_valid: 1
+
+extract_num: 266
+(123, 111) ... (123, 113) is_valid: 1
+
+extract_num: 742
+(123, 117) ... (123, 119) is_valid: 1
+
+extract_num: 414
+(124, 34) ... (124, 36) is_valid: 1
+
+extract_num: 439
+(124, 69) ... (124, 71) is_valid: 1
+
+extract_num: 684
+(124, 76) ... (124, 78) is_valid: 1
+
+extract_num: 325
+(124, 125) ... (124, 127) is_valid: 1
+
+extract_num: 621
+(124, 129) ... (124, 131) is_valid: 1
+
+extract_num: 831
+(124, 136) ... (124, 138) is_valid: 0
+
+extract_num: 924
+(125, 8) ... (125, 10) is_valid: 0
+
+extract_num: 918
+(125, 12) ... (125, 14) is_valid: 1
+
+extract_num: 325
+(125, 16) ... (125, 18) is_valid: 1
+
+extract_num: 248
+(125, 30) ... (125, 32) is_valid: 1
+
+extract_num: 986
+(125, 41) ... (125, 43) is_valid: 1
+
+extract_num: 595
+(125, 46) ... (125, 48) is_valid: 1
+
+extract_num: 601
+(125, 50) ... (125, 52) is_valid: 1
+
+extract_num: 434
+(125, 80) ... (125, 82) is_valid: 1
+
+extract_num: 499
+(125, 89) ... (125, 91) is_valid: 0
+
+extract_num: 801
+(125, 95) ... (125, 97) is_valid: 1
+
+extract_num: 586
+(125, 103) ... (125, 105) is_valid: 1
+
+extract_num: 395
+(125, 112) ... (125, 114) is_valid: 1
+
+extract_num: 251
+(125, 118) ... (125, 120) is_valid: 1
+
+extract_num: 32
+(126, 20) ... (126, 21) is_valid: 1
+
+extract_num: 73
+(126, 26) ... (126, 27) is_valid: 1
+
+extract_num: 772
+(126, 56) ... (126, 58) is_valid: 0
+
+extract_num: 271
+(126, 66) ... (126, 68) is_valid: 1
+
+extract_num: 404
+(126, 70) ... (126, 72) is_valid: 1
+
+extract_num: 403
+(126, 75) ... (126, 77) is_valid: 1
+
+extract_num: 791
+(126, 84) ... (126, 86) is_valid: 1
+
+extract_num: 920
+(126, 108) ... (126, 110) is_valid: 1
+
+extract_num: 20
+(126, 129) ... (126, 130) is_valid: 1
+
+extract_num: 136
+(126, 135) ... (126, 137) is_valid: 1
+
+extract_num: 529
+(127, 2) ... (127, 4) is_valid: 0
+
+extract_num: 610
+(127, 9) ... (127, 11) is_valid: 1
+
+extract_num: 935
+(127, 13) ... (127, 15) is_valid: 1
+
+extract_num: 589
+(127, 29) ... (127, 31) is_valid: 1
+
+extract_num: 265
+(127, 36) ... (127, 38) is_valid: 1
+
+extract_num: 884
+(127, 96) ... (127, 98) is_valid: 1
+
+extract_num: 849
+(127, 103) ... (127, 105) is_valid: 1
+
+extract_num: 694
+(128, 43) ... (128, 45) is_valid: 1
+
+extract_num: 292
+(128, 54) ... (128, 56) is_valid: 1
+
+extract_num: 629
+(128, 58) ... (128, 60) is_valid: 1
+
+extract_num: 967
+(128, 75) ... (128, 77) is_valid: 1
+
+extract_num: 744
+(128, 83) ... (128, 85) is_valid: 1
+
+extract_num: 452
+(128, 112) ... (128, 114) is_valid: 1
+
+extract_num: 290
+(128, 121) ... (128, 123) is_valid: 1
+
+extract_num: 818
+(128, 132) ... (128, 134) is_valid: 1
+
+extract_num: 886
+(129, 0) ... (129, 2) is_valid: 0
+
+extract_num: 206
+(129, 10) ... (129, 12) is_valid: 1
+
+extract_num: 6
+(129, 28) ... (129, 28) is_valid: 1
+
+extract_num: 595
+(129, 36) ... (129, 38) is_valid: 1
+
+extract_num: 85
+(129, 47) ... (129, 48) is_valid: 0
+
+extract_num: 286
+(129, 88) ... (129, 90) is_valid: 1
+
+extract_num: 23
+(129, 97) ... (129, 98) is_valid: 1
+
+extract_num: 436
+(129, 104) ... (129, 106) is_valid: 1
+
+extract_num: 406
+(130, 5) ... (130, 7) is_valid: 1
+
+extract_num: 61
+(130, 17) ... (130, 18) is_valid: 1
+
+extract_num: 68
+(130, 20) ... (130, 21) is_valid: 1
+
+extract_num: 960
+(130, 24) ... (130, 26) is_valid: 1
+
+extract_num: 689
+(130, 43) ... (130, 45) is_valid: 1
+
+extract_num: 916
+(130, 50) ... (130, 52) is_valid: 1
+
+extract_num: 887
+(130, 61) ... (130, 63) is_valid: 1
+
+extract_num: 908
+(130, 68) ... (130, 70) is_valid: 0
+
+extract_num: 217
+(130, 75) ... (130, 77) is_valid: 1
+
+extract_num: 997
+(130, 93) ... (130, 95) is_valid: 1
+
+extract_num: 501
+(130, 124) ... (130, 126) is_valid: 0
+
+extract_num: 912
+(130, 131) ... (130, 133) is_valid: 1
+
+extract_num: 412
+(131, 9) ... (131, 11) is_valid: 1
+
+extract_num: 632
+(131, 32) ... (131, 34) is_valid: 1
+
+extract_num: 412
+(131, 82) ... (131, 84) is_valid: 1
+
+extract_num: 602
+(131, 87) ... (131, 89) is_valid: 1
+
+extract_num: 830
+(131, 98) ... (131, 100) is_valid: 1
+
+extract_num: 856
+(131, 115) ... (131, 117) is_valid: 1
+
+extract_num: 407
+(132, 14) ... (132, 16) is_valid: 1
+
+extract_num: 32
+(132, 23) ... (132, 24) is_valid: 0
+
+extract_num: 670
+(132, 56) ... (132, 58) is_valid: 1
+
+extract_num: 3
+(132, 65) ... (132, 65) is_valid: 1
+
+extract_num: 272
+(132, 69) ... (132, 71) is_valid: 0
+
+extract_num: 78
+(132, 78) ... (132, 79) is_valid: 1
+
+extract_num: 853
+(132, 108) ... (132, 110) is_valid: 1
+
+extract_num: 862
+(132, 119) ... (132, 121) is_valid: 1
+
+extract_num: 428
+(132, 125) ... (132, 127) is_valid: 1
+
+extract_num: 4
+(132, 138) ... (132, 138) is_valid: 0
+
+extract_num: 747
+(133, 4) ... (133, 6) is_valid: 1
+
+extract_num: 97
+(133, 11) ... (133, 12) is_valid: 1
+
+extract_num: 585
+(133, 36) ... (133, 38) is_valid: 1
+
+extract_num: 312
+(133, 40) ... (133, 42) is_valid: 1
+
+extract_num: 664
+(133, 45) ... (133, 47) is_valid: 1
+
+extract_num: 731
+(133, 51) ... (133, 53) is_valid: 1
+
+extract_num: 426
+(133, 61) ... (133, 63) is_valid: 1
+
+extract_num: 243
+(133, 73) ... (133, 75) is_valid: 1
+
+extract_num: 894
+(133, 81) ... (133, 83) is_valid: 1
+
+extract_num: 896
+(133, 99) ... (133, 101) is_valid: 1
+
+extract_num: 287
+(133, 113) ... (133, 115) is_valid: 0
+
+extract_num: 839
+(133, 129) ... (133, 131) is_valid: 1
+
+extract_num: 724
+(133, 134) ... (133, 136) is_valid: 1
+
+extract_num: 948
+(134, 24) ... (134, 26) is_valid: 0
+
+extract_num: 67
+(134, 66) ... (134, 67) is_valid: 1
+
+extract_num: 598
+(134, 86) ... (134, 88) is_valid: 1
+
+extract_num: 5
+(134, 124) ... (134, 124) is_valid: 0
+
+extract_num: 88
+(134, 126) ... (134, 127) is_valid: 1
+
+extract_num: 287
+(135, 3) ... (135, 5) is_valid: 1
+
+extract_num: 634
+(135, 8) ... (135, 10) is_valid: 1
+
+extract_num: 359
+(135, 16) ... (135, 18) is_valid: 1
+
+extract_num: 439
+(135, 39) ... (135, 41) is_valid: 0
+
+extract_num: 251
+(135, 48) ... (135, 50) is_valid: 1
+
+extract_num: 7
+(135, 64) ... (135, 64) is_valid: 1
+
+extract_num: 961
+(135, 69) ... (135, 71) is_valid: 1
+
+extract_num: 139
+(135, 81) ... (135, 83) is_valid: 1
+
+extract_num: 746
+(135, 97) ... (135, 99) is_valid: 1
+
+extract_num: 760
+(135, 106) ... (135, 108) is_valid: 1
+
+extract_num: 682
+(135, 113) ... (135, 115) is_valid: 1
+
+extract_num: 136
+(135, 129) ... (135, 131) is_valid: 1
+
+extract_num: 493
+(136, 12) ... (136, 14) is_valid: 1
+
+extract_num: 410
+(136, 32) ... (136, 34) is_valid: 0
+
+extract_num: 618
+(136, 59) ... (136, 61) is_valid: 1
+
+extract_num: 85
+(136, 73) ... (136, 74) is_valid: 1
+
+extract_num: 189
+(136, 77) ... (136, 79) is_valid: 1
+
+extract_num: 81
+(136, 86) ... (136, 87) is_valid: 1
+
+extract_num: 568
+(136, 120) ... (136, 122) is_valid: 1
+
+extract_num: 627
+(137, 25) ... (137, 27) is_valid: 1
+
+extract_num: 355
+(137, 40) ... (137, 42) is_valid: 1
+
+extract_num: 258
+(137, 48) ... (137, 50) is_valid: 1
+
+extract_num: 738
+(137, 68) ... (137, 70) is_valid: 1
+
+extract_num: 259
+(137, 134) ... (137, 136) is_valid: 1
+
+extract_num: 515
+(138, 6) ... (138, 8) is_valid: 1
+
+extract_num: 357
+(138, 10) ... (138, 12) is_valid: 1
+
+extract_num: 509
+(138, 29) ... (138, 31) is_valid: 1
+
+extract_num: 205
+(138, 34) ... (138, 36) is_valid: 0
+
+extract_num: 203
+(138, 59) ... (138, 61) is_valid: 1
+
+extract_num: 7
+(138, 64) ... (138, 64) is_valid: 1
+
+extract_num: 353
+(138, 74) ... (138, 76) is_valid: 1
+
+extract_num: 209
+(138, 82) ... (138, 84) is_valid: 0
+
+extract_num: 790
+(138, 95) ... (138, 97) is_valid: 0
+
+extract_num: 81
+(138, 101) ... (138, 102) is_valid: 1
+
+extract_num: 695
+(138, 128) ... (138, 130) is_valid: 0
+
+extract_num: 313
+(139, 24) ... (139, 26) is_valid: 1
+
+extract_num: 444
+(139, 39) ... (139, 41) is_valid: 1
+
+extract_num: 662
+(139, 78) ... (139, 80) is_valid: 0
+
+extract_num: 956
+(139, 107) ... (139, 109) is_valid: 0
+
+extract_num: 714
+(139, 115) ... (139, 117) is_valid: 0
+
+extract_num: 935
+(139, 137) ... (139, 139) is_valid: 1
+
+527369
