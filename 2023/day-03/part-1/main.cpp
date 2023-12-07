@@ -23,7 +23,7 @@ inline short count_digits(int num)
   return floor(log10(num) + 1);
 }
 
-inline bool is_coord_valid(int i, int j, int num_rows, int num_cols)
+inline bool is_valid_coord(int i, int j, int num_rows, int num_cols)
 {
   return i >= 0 && i < num_rows && j >= 0 && j < num_cols;
 }
@@ -45,7 +45,7 @@ bool check_if_has_adjacent_symbol(vector<string> &lines, int row, int col1, int 
     int ad_i = row + adjacent_dir_row[k];
     int ad_j = col + adjacent_dir_col[k];
 
-    if (is_coord_valid(ad_i, ad_j, num_rows, num_cols))
+    if (is_valid_coord(ad_i, ad_j, num_rows, num_cols))
     {
       char ad_digit = lines[ad_i][ad_j];
 
@@ -60,7 +60,7 @@ bool check_if_has_adjacent_symbol(vector<string> &lines, int row, int col1, int 
     ad_i = row - 1;
     ad_j = k;
 
-    if (is_coord_valid(ad_i, ad_j, num_rows, num_cols))
+    if (is_valid_coord(ad_i, ad_j, num_rows, num_cols))
     {
       char ad_digit = lines[ad_i][ad_j];
 
@@ -71,7 +71,7 @@ bool check_if_has_adjacent_symbol(vector<string> &lines, int row, int col1, int 
     ad_i = row + 1;
     ad_j = k;
 
-    if (is_coord_valid(ad_i, ad_j, num_rows, num_cols))
+    if (is_valid_coord(ad_i, ad_j, num_rows, num_cols))
     {
       char ad_digit = lines[ad_i][ad_j];
 

@@ -1,4 +1,3 @@
-```cpp
 #include <iostream>
 #define __test__
 
@@ -15,4 +14,3 @@ int main()
 
   return 0;
 }
-```
