@@ -56,7 +56,7 @@ int main()
     set<int> intersect;
     set_intersection(winner_numbers.begin(), winner_numbers.end(),
                      my_numbers.begin(), my_numbers.end(),
-                     std::inserter(intersect, intersect.begin()));
+                     inserter(intersect, intersect.begin()));
 
     int power = intersect.size() - 1;
     if (power >= 0)
