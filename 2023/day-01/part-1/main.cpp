@@ -27,13 +27,13 @@ int main()
   {
     string::iterator beginIterator = line.begin();
     string::iterator endIterator = line.end() - 1;
-    short firstDigit = NULL, secondDigit = NULL;
+    short firstDigit = -1, secondDigit = -1;
 
     while (beginIterator <= endIterator)
     {
       char beginChar = *beginIterator, endChar = *endIterator;
 
-      if (firstDigit == NULL)
+      if (firstDigit == -1)
       {
         if (is_number(beginChar))
           firstDigit = to_number(beginChar);
@@ -41,7 +41,7 @@ int main()
           beginIterator++;
       }
 
-      if (secondDigit == NULL)
+      if (secondDigit == -1)
       {
         if (is_number(endChar))
           secondDigit = to_number(endChar);
@@ -49,7 +49,7 @@ int main()
           endIterator--;
       }
 
-      if (firstDigit != NULL && secondDigit != NULL)
+      if (firstDigit != -1 && secondDigit != -1)
         break;
     }
 

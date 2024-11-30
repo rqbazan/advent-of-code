@@ -83,11 +83,11 @@ int main()
   {
     string::iterator beginIterator = line.begin();
     string::iterator endIterator = line.end() - 1;
-    short firstDigit = NULL, secondDigit = NULL;
+    short firstDigit = -1, secondDigit = -1;
 
     while (beginIterator <= endIterator)
     {
-      if (firstDigit == NULL)
+      if (firstDigit == -1)
       {
         short num = find_number(beginIterator, endIterator + 1);
         if (num != -1)
@@ -96,7 +96,7 @@ int main()
           beginIterator++;
       }
 
-      if (secondDigit == NULL)
+      if (secondDigit == -1)
       {
         short num = find_number(endIterator, beginIterator - 1, -1);
         if (num != -1)
@@ -105,7 +105,7 @@ int main()
           endIterator--;
       }
 
-      if (firstDigit != NULL && secondDigit != NULL)
+      if (firstDigit != -1 && secondDigit != -1)
         break;
     }
 
