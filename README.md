@@ -21,7 +21,7 @@ The repository is structured as follows:
 - Each solution folder contains the following files:
 
   - `main.cpp`: The solution code.
-  - `input.txt`: The input data from the challenge.
+  - `in.txt`: The input data from the challenge.
   - `output.txt`: The solution output.
   - `submit.txt`: The submitted answer to Advent of Code website.
 
