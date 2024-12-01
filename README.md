@@ -16,7 +16,7 @@ The repository is structured as follows:
   ./<year>/day-<day>/part-<part>
   ```
 
-  For instance: [./2023/day-01/part-01](./2023/day-01/part-01)
+  For instance: [./2023/day-01/part-1](./2023/day-01/part-1)
 
 - Each solution folder contains the following files:
 
@@ -44,11 +44,17 @@ The repository is structured as follows:
 1. Go to any solucion folder. For instance:
 
    ```bash
-   cd ./2023/day-01/part-01
+   cd ./2023/day-01/part-1
    ```
 
 2. Run the `main.cpp` file, which is the solution:
 
    ```bash
    g++ -std=c++11 -o out ./main.cpp && ./out
+   ```
+
+3. Check the output:
+
+   ```bash
+   cat out.txt
    ```
