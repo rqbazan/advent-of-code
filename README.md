@@ -13,17 +13,17 @@ The repository is structured as follows:
 - Each solution in well contained in a folder with the following structure:
 
   ```
-  ./<year>/day-<day>/part-<part>
+  ./src/<year>/day-<day>/part-<part>
   ```
 
-  For instance: [./2023/day-01/part-1](./2023/day-01/part-1)
+  For instance: [./src/2023/day-01/part-1](./src/2023/day-01/part-1)
 
 - Each solution folder contains the following files:
 
   - `main.cpp`: The solution code.
-  - `input.txt`: The input data for the solution.
-  - `output.txt`: The expected output for the solution.
-  - `submit.txt`: The answer to submit to the Advent of Code website.
+  - `input.txt`: The input data from the challenge.
+  - `output.txt`: The solution output.
+  - `submit.txt`: The submitted answer to Advent of Code website.
 
 ## Run a solution
 
@@ -44,7 +44,7 @@ The repository is structured as follows:
 1. Go to any solucion folder. For instance:
 
    ```bash
-   cd ./2023/day-01/part-1
+   cd ./src/2023/day-01/part-1
    ```
 
 2. Run the `main.cpp` file, which is the solution:
@@ -58,3 +58,51 @@ The repository is structured as follows:
    ```bash
    cat out.txt
    ```
+
+## Check a solution
+
+There is a script that checks the solutions and compares the output with the submitted answer.
+
+```bash
+make check
+```
+
+<details>
+  <summary>Example Output</summary>
+
+    Checking ./src/2024/day-01/part-2/main.cpp
+    ✅ Check passed
+
+    Checking ./src/2024/day-01/part-1/main.cpp
+    ✅ Check passed
+
+    Checking ./src/2023/day-01/part-2/main.cpp
+    ✅ Check passed
+
+    Checking ./src/2023/day-01/part-1/main.cpp
+    ✅ Check passed
+
+    Checking ./src/2023/day-04/part-1/main.cpp
+    ✅ Check passed
+
+    Checking ./src/2023/day-03/part-2/main.cpp
+    ✅ Check passed
+
+    Checking ./src/2023/day-03/part-1/main.cpp
+    ✅ Check passed
+
+    Checking ./src/2023/day-02/part-2/main.cpp
+    ✅ Check passed
+
+    Checking ./src/2023/day-02/part-1/main.cpp
+    ✅ Check passed
+
+</details>
+
+It will walk through all the solutions and check if the output is correct.
+
+Optionally, you can pass a specific folder:
+
+```bash
+make check 2023/day-01/part-1
+```
