@@ -13,10 +13,10 @@ The repository is structured as follows:
 - Each solution in well contained in a folder with the following structure:
 
   ```
-  ./<year>/day-<day>/part-<part>
+  ./src/<year>/day-<day>/part-<part>
   ```
 
-  For instance: [./2023/day-01/part-1](./2023/day-01/part-1)
+  For instance: [./src/2023/day-01/part-1](./src/2023/day-01/part-1)
 
 - Each solution folder contains the following files:
 
@@ -44,7 +44,7 @@ The repository is structured as follows:
 1. Go to any solucion folder. For instance:
 
    ```bash
-   cd ./2023/day-01/part-1
+   cd ./src/2023/day-01/part-1
    ```
 
 2. Run the `main.cpp` file, which is the solution:
