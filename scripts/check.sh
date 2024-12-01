@@ -2,6 +2,7 @@
 
 # Base directory containing root folders
 BASE_DIR="./src"
+EXIT_CODE=0  # Track the exit status
 
 # If a specific path is provided, set it as the target directory
 if [[ -n $1 ]]; then
@@ -33,6 +34,7 @@ for main_file in $FILES; do
     g++ -std=c++11 -o out main.cpp
     if [[ $? -ne 0 ]]; then
         echo "❌ Compilation failed for $main_file"
+        EXIT_CODE=1
         popd > /dev/null
         continue
     fi
@@ -41,6 +43,7 @@ for main_file in $FILES; do
     ./out > /dev/null
     if [[ $? -ne 0 ]]; then
         echo "❌ Runtime error for $main_file"
+        EXIT_CODE=1
         popd > /dev/null
         continue
     fi
@@ -48,12 +51,14 @@ for main_file in $FILES; do
     # Verify that the necessary files exist
     if [[ ! -f "out.txt" ]]; then
         echo "Error: out.txt was not generated."
+        EXIT_CODE=1
         popd > /dev/null
         continue
     fi
 
     if [[ ! -f "submit.txt" ]]; then
         echo "Error: submit.txt does not exist."
+        EXIT_CODE=1
         popd > /dev/null
         continue
     fi
@@ -69,8 +74,12 @@ for main_file in $FILES; do
         echo "❌ Check failed"
         echo "  Expected: $submit_last_line"
         echo "  Got: $out_last_line"
+        EXIT_CODE=1
     fi
 
     # Return to the previous directory
     popd > /dev/null
 done
+
+# Exit with the appropriate code
+exit $EXIT_CODE
