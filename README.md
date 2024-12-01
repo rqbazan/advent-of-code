@@ -99,8 +99,6 @@ make check
 
 </details>
 
-<br>
-
 It will walk through all the solutions and check if the output is correct.
 
 Optionally, you can pass a specific folder:
