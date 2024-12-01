@@ -3,13 +3,28 @@
 # Base directory containing root folders
 BASE_DIR="./src"
 
-# Traverse all main.cpp files in all subdirectories
-find "$BASE_DIR" -type f -name "main.cpp" | while read -r main_file; do
-    dir=$(dirname "$main_file")  # Get the directory containing main.cpp
+# If a specific path is provided, set it as the target directory
+if [[ -n $1 ]]; then
+    TARGET_DIR="$BASE_DIR/$1"
+    if [[ ! -d "$TARGET_DIR" ]]; then
+        echo "Error: Directory $TARGET_DIR does not exist."
+        exit 1
+    fi
+    # Check only the main.cpp in the specified directory
+    FILES=$(find "$TARGET_DIR" -type f -name "main.cpp")
+else
+    # Check all main.cpp files under the base directory
+    FILES=$(find "$BASE_DIR" -type f -name "main.cpp")
+fi
+
+# Traverse all the main.cpp files
+for main_file in $FILES; do
+    dir=$(dirname "$main_file") 
     out_file="$dir/out.txt"
     submit_file="$dir/submit.txt"
 
-    echo "Testing $main_file"
+    echo $''
+    echo "Checking $main_file"
 
     # Temporarily switch to the directory of the current file
     pushd "$dir" > /dev/null
@@ -49,15 +64,13 @@ find "$BASE_DIR" -type f -name "main.cpp" | while read -r main_file; do
 
     # Compare the last lines
     if [[ "$out_last_line" == "$submit_last_line" ]]; then
-        echo "✅ Test passed"
+        echo "✅ Check passed"
     else
-        echo "❌ Test failed"
+        echo "❌ Check failed"
         echo "  Expected: $submit_last_line"
         echo "  Got: $out_last_line"
     fi
 
     # Return to the previous directory
     popd > /dev/null
-
-    echo $'' # new line
 done
