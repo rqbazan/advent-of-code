@@ -22,7 +22,7 @@ The repository is structured as follows:
 
   - `main.cpp`: The solution code.
   - `in.txt`: The input data from the challenge.
-  - `output.txt`: The solution output.
+  - `out.txt`: The solution output.
   - `submit.txt`: The submitted answer to Advent of Code website.
 
 ## Run a solution
