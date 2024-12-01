@@ -29,13 +29,15 @@ The repository is structured as follows:
 
 ### Using VSCode
 
-1. Run current file
+<details>
+  <summary>1. Run current file</summary>
+  <img src="./other/run-current-file.gif" />
+</details>
 
-![](./other/run-current-file.mov)
-
-1. Debug current file
-
-![](./other/debug-current-file.mov)
+<details>
+  <summary>2. Debug current file</summary>
+  <img src="./other/debug-current-file.gif" />
+</details>
 
 ### Manually
 
@@ -45,11 +47,8 @@ The repository is structured as follows:
    cd ./2023/day-01/part-01
    ```
 
-````
-
 2. Run the `main.cpp` file, which is the solution:
 
    ```bash
    g++ -std=c++11 -o out ./main.cpp && ./out
    ```
-````
