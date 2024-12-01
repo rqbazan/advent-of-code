@@ -15,5 +15,8 @@ jobs:
       - name: ⬇️ Checkout repo
         uses: actions/checkout@master
 
+      - name: Check Compiler Version
+        run: g++ --version
+
       - name: 🔎 Run checks
         run: make check
