@@ -6,7 +6,7 @@
       "type": "cppbuild",
       "command": "/usr/bin/g++",
       "args": [
-        "-std=c++11",
+        "-std=c++20",
         "-fdiagnostics-color=always",
         "-g",
         "${file}",

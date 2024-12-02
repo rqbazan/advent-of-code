@@ -50,7 +50,7 @@ The repository is structured as follows:
 2. Run the `main.cpp` file, which is the solution:
 
    ```bash
-   g++ -std=c++11 -o out ./main.cpp && ./out
+   g++ -std=c++20 -o out ./main.cpp && ./out
    ```
 
 3. Check the output:

@@ -31,7 +31,7 @@ for main_file in $FILES; do
     pushd "$dir" > /dev/null
 
     # Compile main.cpp
-    g++ -std=c++11 -o out main.cpp
+    g++ -std=c++20 -o out main.cpp
     if [[ $? -ne 0 ]]; then
         echo "❌ Compilation failed for $main_file"
         EXIT_CODE=1
