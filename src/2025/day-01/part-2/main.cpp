@@ -16,13 +16,17 @@ struct Dial
 
   void to_right(int steps)
   {
+    zero_clicks += (position + steps) / 100;
     position = abs_mod(position + steps, 100);
-    if (position == 0)
-      zero_clicks += 1;
   }
 
   void to_left(int steps)
   {
+    if (position == 0)
+      zero_clicks += steps / 100;
+    else if (steps > position)
+      zero_clicks += 1 + ((steps - position - 1) / 100);
+
     position = abs_mod(position - steps, 100);
     if (position == 0)
       zero_clicks += 1;
