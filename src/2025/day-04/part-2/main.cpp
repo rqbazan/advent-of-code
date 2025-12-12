@@ -1,4 +1,5 @@
 #include <iostream>
+#include <vector>
 #define __test__
 
 using namespace std;
